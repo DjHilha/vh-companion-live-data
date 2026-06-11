@@ -2,81 +2,6 @@
   "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
   "companions": [
     {
-      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
-      "name": "Grim_Stoner",
-      "skin": "Grim_Stoner",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 10,
-      "xp": 2542765,
-      "vaultRuns": 22,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "loot_goblin",
-      "baseCooldown": 9,
-      "cooldownExpiry": 1781093539791,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "phoenix"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_bonus",
-            "gilded_cascade",
-            "living_cascade"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "coin_cascade",
-            "living",
-            "extended"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "living"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 8,
-          "modifiers": [
-            "plentiful",
-            "coin_cascade",
-            "living",
-            "gilded",
-            "companion_challenge",
-            "companion_challenge",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        }
-      ]
-    },
-    {
       "uuid": "882ac48e-cbb1-4a33-a447-5bb728e2807c",
       "name": "Venus",
       "skin": "Venus",
@@ -938,6 +863,123 @@
       "ancientRelics": []
     },
     {
+      "uuid": "47636865-06e3-428c-9261-ed7aafa2e760",
+      "name": "White Cat",
+      "skin": "White Cat",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "PET",
+      "type": "white_cat",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": false,
+      "temporal": "ultimate_regeneration",
+      "baseCooldown": 10,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "721b91f6-59a5-497e-90a0-60810eec447b",
+      "name": "White Cat",
+      "skin": "White Cat",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "PET",
+      "type": "white_cat",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": false,
+      "temporal": "pylon_hunter",
+      "baseCooldown": 8,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
+      "name": "Grim_Stoner",
+      "skin": "Grim_Stoner",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 10,
+      "xp": 2542765,
+      "vaultRuns": 22,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781093539791,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "phoenix"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_bonus",
+            "gilded_cascade",
+            "living_cascade"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "coin_cascade",
+            "living",
+            "extended"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 8,
+          "modifiers": [
+            "plentiful",
+            "coin_cascade",
+            "living",
+            "gilded",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ]
+    },
+    {
       "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
       "name": "Unkool_Dad",
       "skin": "Unkool_Dad",
@@ -989,48 +1031,6 @@
           ]
         }
       ],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "47636865-06e3-428c-9261-ed7aafa2e760",
-      "name": "White Cat",
-      "skin": "White Cat",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "PET",
-      "type": "white_cat",
-      "level": 1,
-      "xp": 0,
-      "vaultRuns": 0,
-      "hearts": 1,
-      "maxHearts": 1,
-      "active": false,
-      "temporal": "ultimate_regeneration",
-      "baseCooldown": 10,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "721b91f6-59a5-497e-90a0-60810eec447b",
-      "name": "White Cat",
-      "skin": "White Cat",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "PET",
-      "type": "white_cat",
-      "level": 1,
-      "xp": 0,
-      "vaultRuns": 0,
-      "hearts": 1,
-      "maxHearts": 1,
-      "active": false,
-      "temporal": "pylon_hunter",
-      "baseCooldown": 8,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [],
       "ancientRelics": []
     }
   ]
