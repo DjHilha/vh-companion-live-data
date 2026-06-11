@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Meowtys</title>
+    <link rel="stylesheet" href="viewer.css">
+</head>
+<body>
+
+<div id="app">
+
+    <div class="top-bar">
+        <div class="branding">
+            <h1>Meowtys</h1>
+        </div>
+    </div>
+
+    <div class="claim-box" id="claimBox">
+        <div class="claim-title">Find your Meowty</div>
+
+        <div class="claim-row">
+            <input id="companionNameInput" type="text" placeholder="Enter your companion name">
+            <button id="saveCompanionButton">Save</button>
+        </div>
+
+        <div id="claimMessage" class="claim-message"></div>
+    </div>
+
+    <div class="saved-view" id="savedView">
+        <div class="saved-name">
+            Showing: <strong id="savedCompanionName"></strong>
+        </div>
+
+        <button id="changeCompanionButton">Change companion</button>
+    </div>
+
+    <div class="companion-card" id="companionCard">
+
+        <div class="portrait-panel">
+            <img id="playerModel" class="player-model" src="" alt="Companion">
+            <div id="heartRow" class="heart-row"></div>
+        </div>
+
+        <div class="details-panel">
+
+            <div class="name-row">
+                <div>
+                    <div id="series" class="series">LEGEND</div>
+                    <h2 id="name">Loading...</h2>
+                </div>
+
+                <div id="status" class="status">BATTLE READY</div>
+            </div>
+
+            <div class="xp-wrap">
+                <div class="xp-bar">
+                    <div id="xpFill" class="xp-fill"></div>
+                    <div id="xpText" class="xp-text">Level 0</div>
+                </div>
+            </div>
+
+            <div class="info-grid">
+                <div class="info-box">
+                    <span>XP</span>
+                    <strong id="xp">0</strong>
+                </div>
+
+                <div class="info-box">
+                    <span>Vault Runs</span>
+                    <strong id="vaultRuns">0</strong>
+                </div>
+
+                <div class="info-box">
+                    <span>Type</span>
+                    <strong id="type">-</strong>
+                </div>
+
+                <div class="info-box temporal-box">
+                    <span>Temporal</span>
+                    <div class="temporal-content">
+                        <img id="temporalIcon" src="assets/temporals/default.png" alt="">
+                        <strong id="temporal">None</strong>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Relics</div>
+                <div id="relicList" class="relic-grid"></div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Ancient Relics</div>
+                <div id="ancientRelicList" class="relic-grid"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="viewer.js"></script>
+</body>
+</html>
