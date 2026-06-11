@@ -580,48 +580,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "24e75a95-b321-4ec9-994e-cd4ed07f181c",
-      "name": "QueenofHarts",
-      "skin": "QueenofHarts",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 5,
-      "xp": 202052,
-      "vaultRuns": 4,
-      "hearts": 3,
-      "maxHearts": 3,
-      "active": true,
-      "temporal": "kill_hunter",
-      "baseCooldown": 5,
-      "cooldownExpiry": 1781010261713,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "wooden_bonus",
-            "living",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "coin_pile"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "0e82c54b-e44e-4095-aa7f-9699afe7b88b",
       "name": "Rhaw_G",
       "skin": "Rhaw_G",
@@ -680,56 +638,6 @@
             "wooden_cascade",
             "wooden_cascade",
             "wooden_cascade"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "ece40e9b-84a0-4c13-ab67-41a3f3210aae",
-      "name": "Rhaw_G",
-      "skin": "Rhaw_G",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 9,
-      "xp": 247434,
-      "vaultRuns": 14,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": false,
-      "temporal": "door_hunter",
-      "baseCooldown": 7,
-      "cooldownExpiry": 1781089662349,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "ornate",
-            "wooden_bonus",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "plentiful",
-            "plentiful"
           ]
         }
       ],
