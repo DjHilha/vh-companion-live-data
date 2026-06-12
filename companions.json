@@ -696,49 +696,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "ad7a3e31-cf2e-4ed6-8a4b-9b32e4882ed2",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 8,
-      "xp": 522304,
-      "vaultRuns": 9,
-      "hearts": 3,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "loot_goblin",
-      "baseCooldown": 6,
-      "cooldownExpiry": 1781298005450,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "gilded",
-            "companion_challenge",
-            "extended"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 6,
-          "modifiers": [
-            "living_cascade",
-            "living_cascade",
-            "companion_challenge",
-            "companion_challenge",
-            "phoenix",
-            "xp_gain"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
       "name": "QueenofHarts",
       "skin": "QueenofHarts",
