@@ -801,27 +801,6 @@
         }
       ],
       "ancientRelics": []
-    },
-    {
-      "uuid": "26045dff-a788-4f5d-86b3-9c72274e3eb6",
-      "name": "Weljah",
-      "skin": "Weljah",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 1,
-      "xp": 0,
-      "vaultRuns": 0,
-      "hearts": 1,
-      "maxHearts": 1,
-      "active": false,
-      "temporal": "glued_mobs",
-      "baseCooldown": 6,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
     }
   ]
 }
