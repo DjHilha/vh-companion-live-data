@@ -748,14 +748,14 @@
       "type": "minion",
       "level": 15,
       "xp": 2933790,
-      "vaultRuns": 38,
+      "vaultRuns": 39,
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
       "temporal": "loot_goblin",
       "baseCooldown": 9,
-      "cooldownExpiry": 1781298885546,
-      "status": "BATTLE READY",
+      "cooldownExpiry": 1781300348448,
+      "status": "SLEEPING",
       "relics": [
         {
           "slot": "0",
