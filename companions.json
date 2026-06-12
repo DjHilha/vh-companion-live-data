@@ -37,63 +37,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "34e28bbd-ac2f-4cd8-869b-01f96ea71002",
-      "name": "HalosiaPaage",
-      "skin": "HalosiaPaage",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 10,
-      "xp": 257788,
-      "vaultRuns": 16,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "bronze_nuke",
-      "baseCooldown": 6,
-      "cooldownExpiry": 1781109324491,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "gilded_cascade",
-            "gilded_cascade",
-            "living",
-            "gilded"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "coin_pile",
-            "coin_pile",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "coin_pile",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "fdb3037b-9b2b-4f75-98c8-5d8670764a2c",
       "name": "LadyLilac84",
       "skin": "LadyLilac84",
@@ -791,7 +734,7 @@
       "level": 8,
       "xp": 786764,
       "vaultRuns": 9,
-      "hearts": 3,
+      "hearts": 4,
       "maxHearts": 4,
       "active": true,
       "temporal": "loot_goblin",
@@ -818,6 +761,63 @@
             "companion_challenge",
             "phoenix",
             "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "34e28bbd-ac2f-4cd8-869b-01f96ea71002",
+      "name": "HalosiaPaage",
+      "skin": "HalosiaPaage",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 10,
+      "xp": 257788,
+      "vaultRuns": 16,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781109324491,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "living",
+            "gilded"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "companion_challenge",
+            "companion_challenge"
           ]
         }
       ],
