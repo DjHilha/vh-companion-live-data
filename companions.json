@@ -102,7 +102,7 @@
       "temporal": "overpower",
       "baseCooldown": 10,
       "cooldownExpiry": 1781371296024,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -394,7 +394,7 @@
       "temporal": "rock_solid",
       "baseCooldown": 9,
       "cooldownExpiry": 1781371296024,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
