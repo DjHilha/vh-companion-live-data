@@ -60,7 +60,7 @@
       "temporal": "rock_solid",
       "baseCooldown": 6,
       "cooldownExpiry": 1781377573217,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -510,7 +510,7 @@
       "temporal": "lunar",
       "baseCooldown": 6,
       "cooldownExpiry": 1781377573217,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
