@@ -108,7 +108,7 @@
       "temporal": "soul_fest",
       "baseCooldown": 5,
       "cooldownExpiry": 1781352010147,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -267,27 +267,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "152b03ac-cba6-4680-a76d-6ed9e82f489a",
-      "name": "iskall85",
-      "skin": "iskall85",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 4,
-      "xp": 121630,
-      "vaultRuns": 1,
-      "hearts": 2,
-      "maxHearts": 2,
-      "active": false,
-      "temporal": "soul_fest",
-      "baseCooldown": 8,
-      "cooldownExpiry": 1781109144491,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
       "uuid": "a15c1e44-166b-4d90-9e4d-9c03da68d263",
       "name": "SassySaladBar",
       "skin": "SassySaladBar",
@@ -346,7 +325,7 @@
       "temporal": "rock_solid",
       "baseCooldown": 6,
       "cooldownExpiry": 1781352010147,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -743,6 +722,102 @@
             "companion_challenge",
             "extended",
             "phoenix"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "26045dff-a788-4f5d-86b3-9c72274e3eb6",
+      "name": "Weljah",
+      "skin": "Weljah",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 5,
+      "xp": 22397,
+      "vaultRuns": 1,
+      "hearts": 3,
+      "maxHearts": 3,
+      "active": false,
+      "temporal": "glued_mobs",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781351770147,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "152b03ac-cba6-4680-a76d-6ed9e82f489a",
+      "name": "iskall85",
+      "skin": "iskall85",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 4,
+      "xp": 121630,
+      "vaultRuns": 1,
+      "hearts": 2,
+      "maxHearts": 2,
+      "active": false,
+      "temporal": "soul_fest",
+      "baseCooldown": 8,
+      "cooldownExpiry": 1781109144491,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
+      "name": "Unkool_Dad",
+      "skin": "Unkool_Dad",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 11,
+      "xp": 1056246,
+      "vaultRuns": 18,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "ultimate_regeneration",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781352490147,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "living"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "living_cascade",
+            "living_cascade",
+            "living",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "plentiful"
           ]
         }
       ],
