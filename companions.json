@@ -186,7 +186,7 @@
       "temporal": "soul_fest",
       "baseCooldown": 6,
       "cooldownExpiry": 1781364696238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -264,7 +264,7 @@
       "temporal": "bronze_nuke",
       "baseCooldown": 10,
       "cooldownExpiry": 1781364696238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
