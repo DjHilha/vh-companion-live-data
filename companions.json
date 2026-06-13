@@ -435,7 +435,7 @@
       "temporal": "bronze_nuke",
       "baseCooldown": 5,
       "cooldownExpiry": 1781370936024,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -627,7 +627,7 @@
       "temporal": "daycare",
       "baseCooldown": 5,
       "cooldownExpiry": 1781370936024,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -984,7 +984,7 @@
       "temporal": "daycare",
       "baseCooldown": 9,
       "cooldownExpiry": 1781370936024,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     }
