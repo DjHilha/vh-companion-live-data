@@ -212,57 +212,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "0ac2e32c-f524-48ed-b449-9eff1c39b769",
-      "name": "MommyNikki284",
-      "skin": "MommyNikki284",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 8,
-      "xp": 1039687,
-      "vaultRuns": 18,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "lunar",
-      "baseCooldown": 6,
-      "cooldownExpiry": 1781356510251,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "companion_challenge",
-            "extended"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 6,
-          "modifiers": [
-            "living_cascade",
-            "extended"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "gilded",
-            "extended"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "7c934fa2-b779-428e-bce8-9c77521d3d25",
       "name": "d_Luu",
       "skin": "d_Luu",
@@ -863,6 +812,57 @@
       "cooldownExpiry": 1781083391343,
       "status": "BATTLE READY",
       "relics": [],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "0ac2e32c-f524-48ed-b449-9eff1c39b769",
+      "name": "MommyNikki284",
+      "skin": "MommyNikki284",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 8,
+      "xp": 1039687,
+      "vaultRuns": 18,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "lunar",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781356510251,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "extended"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "gilded",
+            "extended"
+          ]
+        }
+      ],
       "ancientRelics": []
     }
   ]
