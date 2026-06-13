@@ -450,60 +450,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
-      "name": "Unkool_Dad",
-      "skin": "Unkool_Dad",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 11,
-      "xp": 2143324,
-      "vaultRuns": 19,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "ultimate_regeneration",
-      "baseCooldown": 9,
-      "cooldownExpiry": 1781356990251,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "living"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "ornate",
-            "ornate",
-            "living_cascade",
-            "living_cascade",
-            "living",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "plentiful"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "34e28bbd-ac2f-4cd8-869b-01f96ea71002",
       "name": "HalosiaPaage",
       "skin": "HalosiaPaage",
@@ -800,6 +746,83 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
+      "name": "QueenofHarts",
+      "skin": "QueenofHarts",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 16,
+      "xp": 3942781,
+      "vaultRuns": 43,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781357290251,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "living",
+            "ornate",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 9,
+          "modifiers": [
+            "ornate",
+            "coin_pile",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ]
     }
   ]
 }
