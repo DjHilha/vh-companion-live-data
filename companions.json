@@ -892,6 +892,45 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "7a8033a5-235e-4810-8964-4d731a99e633",
+      "name": "Lucsious1",
+      "skin": "Lucsious1",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 6,
+      "xp": 74746,
+      "vaultRuns": 2,
+      "hearts": 3,
+      "maxHearts": 3,
+      "active": false,
+      "temporal": "pylon_hunter",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781352130147,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "ornate_cascade",
+            "living",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "extended",
+            "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": []
     }
   ]
 }
