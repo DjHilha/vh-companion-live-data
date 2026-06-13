@@ -262,7 +262,7 @@
       "temporal": "pylon_hunter",
       "baseCooldown": 9,
       "cooldownExpiry": 1781352130147,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -712,7 +712,7 @@
       "temporal": "bronze_nuke",
       "baseCooldown": 7,
       "cooldownExpiry": 1781352130147,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
