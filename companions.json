@@ -935,7 +935,7 @@
       "temporal": "pylon_hunter",
       "baseCooldown": 9,
       "cooldownExpiry": 1781371236024,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
