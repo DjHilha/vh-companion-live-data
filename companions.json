@@ -554,7 +554,7 @@
       "temporal": "ultimate_regeneration",
       "baseCooldown": 9,
       "cooldownExpiry": 1781365176238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -819,7 +819,7 @@
       "temporal": "loot_goblin",
       "baseCooldown": 9,
       "cooldownExpiry": 1781365176238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
