@@ -792,6 +792,40 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "7114d9e7-b539-4cec-833d-e89e7cd4421d",
+      "name": "Underlig",
+      "skin": "Underlig",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 7,
+      "xp": 532129,
+      "vaultRuns": 7,
+      "hearts": 3,
+      "maxHearts": 3,
+      "active": true,
+      "temporal": "daycare",
+      "baseCooldown": 5,
+      "cooldownExpiry": 1781092999791,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "companion_challenge",
+            "companion_challenge",
+            "extended",
+            "phoenix"
+          ]
+        }
+      ],
+      "ancientRelics": []
     }
   ]
 }
