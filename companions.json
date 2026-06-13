@@ -165,7 +165,7 @@
       "temporal": "loot_goblin",
       "baseCooldown": 8,
       "cooldownExpiry": 1781364576238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -725,7 +725,7 @@
       "temporal": "daycare",
       "baseCooldown": 5,
       "cooldownExpiry": 1781364576238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
