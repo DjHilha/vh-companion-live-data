@@ -876,6 +876,86 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "fdb3037b-9b2b-4f75-98c8-5d8670764a2c",
+      "name": "LadyLilac84",
+      "skin": "LadyLilac84",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 10,
+      "xp": 2034729,
+      "vaultRuns": 11,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "kill_totem",
+      "baseCooldown": 10,
+      "cooldownExpiry": 1781357050251,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "living_cascade",
+            "wooden_bonus",
+            "living_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "coin_cascade",
+            "ornate_cascade"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 9,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded",
+            "wooden_bonus",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        }
+      ]
     }
   ]
 }
