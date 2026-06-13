@@ -243,7 +243,7 @@
       "temporal": "bronze_nuke",
       "baseCooldown": 10,
       "cooldownExpiry": 1781371356024,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
