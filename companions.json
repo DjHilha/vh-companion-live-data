@@ -843,6 +843,27 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "64706c2f-6b9c-4635-b4f8-1180eeee191e",
+      "name": "Wilkis",
+      "skin": "Wilkis",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": false,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 10,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
