@@ -488,6 +488,361 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "0ac2e32c-f524-48ed-b449-9eff1c39b769",
+      "name": "MommyNikki284",
+      "skin": "MommyNikki284",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 8,
+      "xp": 747798,
+      "vaultRuns": 17,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "lunar",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781353783506,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "extended"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "gilded",
+            "extended"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "7c934fa2-b779-428e-bce8-9c77521d3d25",
+      "name": "d_Luu",
+      "skin": "d_Luu",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 7,
+      "xp": 239940,
+      "vaultRuns": 7,
+      "hearts": 3,
+      "maxHearts": 3,
+      "active": true,
+      "temporal": "soul_fest",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781353780449,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "ac942a8a-abf2-4315-b0df-38fe58d69b00",
+      "name": "Aslakx",
+      "skin": "Aslakx",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 8,
+      "xp": 288604,
+      "vaultRuns": 8,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "rock_solid",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781353788893,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "living_cascade",
+            "extended"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "4f9d34fb-9daf-4236-a026-8795939bc453",
+      "name": "ISpect",
+      "skin": "ISpect",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 9,
+      "xp": 237510,
+      "vaultRuns": 12,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 7,
+      "cooldownExpiry": 1781353786926,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "companion_challenge",
+            "extended",
+            "phoenix"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "f28c1366-2c10-4b90-978d-9d355901670d",
+      "name": "Magdaluo",
+      "skin": "Magdaluo",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 10,
+      "xp": 937340,
+      "vaultRuns": 16,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "soul_fest",
+      "baseCooldown": 5,
+      "cooldownExpiry": 1781353794742,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "wooden_cascade"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "gilded",
+            "ornate_cascade",
+            "companion_challenge"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "fdb3037b-9b2b-4f75-98c8-5d8670764a2c",
+      "name": "LadyLilac84",
+      "skin": "LadyLilac84",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 10,
+      "xp": 626814,
+      "vaultRuns": 10,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "kill_totem",
+      "baseCooldown": 10,
+      "cooldownExpiry": 1781353793058,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "living_cascade",
+            "wooden_bonus",
+            "living_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "coin_cascade",
+            "ornate_cascade"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "ad7a3e31-cf2e-4ed6-8a4b-9b32e4882ed2",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 8,
+      "xp": 1036856,
+      "vaultRuns": 10,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781353800794,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "companion_challenge",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "living_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "phoenix",
+            "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "34e28bbd-ac2f-4cd8-869b-01f96ea71002",
+      "name": "HalosiaPaage",
+      "skin": "HalosiaPaage",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 10,
+      "xp": 1382995,
+      "vaultRuns": 17,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781353799256,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "living",
+            "gilded"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ],
+      "ancientRelics": []
     }
   ]
 }
