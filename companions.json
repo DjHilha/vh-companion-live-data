@@ -822,6 +822,27 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "14f48f81-2f65-44f6-af96-58265ffba67b",
+      "name": "isgall85",
+      "skin": "isgall85",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": false,
+      "temporal": "kill_totem",
+      "baseCooldown": 8,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
