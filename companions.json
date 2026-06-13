@@ -696,7 +696,7 @@
       "temporal": "soul_fest",
       "baseCooldown": 5,
       "cooldownExpiry": 1781356510251,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -831,7 +831,7 @@
       "temporal": "lunar",
       "baseCooldown": 6,
       "cooldownExpiry": 1781356510251,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
