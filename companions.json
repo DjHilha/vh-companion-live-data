@@ -170,70 +170,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
-      "name": "QueenofHarts",
-      "skin": "QueenofHarts",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 16,
-      "xp": 3942781,
-      "vaultRuns": 43,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "loot_goblin",
-      "baseCooldown": 9,
-      "cooldownExpiry": 1781357290251,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 5,
-          "modifiers": [
-            "plentiful",
-            "plentiful"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "ornate",
-            "ornate",
-            "ornate_cascade",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "ornate",
-            "ornate",
-            "ornate_cascade",
-            "living",
-            "ornate",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 5,
-          "modifiers": [
-            "plentiful",
-            "plentiful",
-            "living"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "26045dff-a788-4f5d-86b3-9c72274e3eb6",
       "name": "Weljah",
       "skin": "Weljah",
@@ -348,145 +284,6 @@
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
       "relics": [],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
-      "name": "Grim_Stoner",
-      "skin": "Grim_Stoner",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 11,
-      "xp": 1131040,
-      "vaultRuns": 25,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "loot_goblin",
-      "baseCooldown": 9,
-      "cooldownExpiry": 1781356990251,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "phoenix"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_bonus",
-            "gilded_cascade",
-            "living_cascade"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "coin_cascade",
-            "living",
-            "extended"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "living"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 8,
-          "modifiers": [
-            "plentiful",
-            "coin_cascade",
-            "living",
-            "gilded",
-            "companion_challenge",
-            "companion_challenge",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        }
-      ]
-    },
-    {
-      "uuid": "0e82c54b-e44e-4095-aa7f-9699afe7b88b",
-      "name": "Rhaw_G",
-      "skin": "Rhaw_G",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 11,
-      "xp": 2288082,
-      "vaultRuns": 12,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "rock_solid",
-      "baseCooldown": 8,
-      "cooldownExpiry": 1781356870251,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "plentiful",
-            "ornate",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 6,
-          "modifiers": [
-            "living_cascade",
-            "coin_pile",
-            "coin_cascade",
-            "ornate"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 6,
-          "modifiers": [
-            "living_cascade",
-            "plentiful",
-            "living"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade"
-          ]
-        }
-      ],
       "ancientRelics": []
     },
     {
@@ -864,6 +661,145 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
+      "name": "QueenofHarts",
+      "skin": "QueenofHarts",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 16,
+      "xp": 3942781,
+      "vaultRuns": 43,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781357290251,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "living",
+            "ornate",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
+      "name": "Grim_Stoner",
+      "skin": "Grim_Stoner",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 11,
+      "xp": 1131040,
+      "vaultRuns": 25,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781356990251,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "phoenix"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_bonus",
+            "gilded_cascade",
+            "living_cascade"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "coin_cascade",
+            "living",
+            "extended"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 8,
+          "modifiers": [
+            "plentiful",
+            "coin_cascade",
+            "living",
+            "gilded",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ]
     }
   ]
 }
