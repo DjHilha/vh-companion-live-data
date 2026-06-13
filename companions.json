@@ -18,7 +18,7 @@
       "temporal": "soul_fest",
       "baseCooldown": 10,
       "cooldownExpiry": 1781365056238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -659,7 +659,7 @@
       "temporal": "rock_solid",
       "baseCooldown": 8,
       "cooldownExpiry": 1781365056238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
