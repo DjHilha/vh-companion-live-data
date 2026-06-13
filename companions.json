@@ -102,7 +102,7 @@
       "temporal": "overpower",
       "baseCooldown": 10,
       "cooldownExpiry": 1781377933217,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
