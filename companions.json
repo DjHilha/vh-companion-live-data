@@ -478,60 +478,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
-      "name": "Unkool_Dad",
-      "skin": "Unkool_Dad",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 11,
-      "xp": 1056246,
-      "vaultRuns": 18,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "ultimate_regeneration",
-      "baseCooldown": 9,
-      "cooldownExpiry": 1781352490147,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "living"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "ornate",
-            "ornate",
-            "living_cascade",
-            "living_cascade",
-            "living",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "plentiful"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
       "name": "QueenofHarts",
       "skin": "QueenofHarts",
@@ -593,27 +539,6 @@
           ]
         }
       ],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "26045dff-a788-4f5d-86b3-9c72274e3eb6",
-      "name": "Weljah",
-      "skin": "Weljah",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 5,
-      "xp": 22397,
-      "vaultRuns": 1,
-      "hearts": 3,
-      "maxHearts": 3,
-      "active": false,
-      "temporal": "glued_mobs",
-      "baseCooldown": 6,
-      "cooldownExpiry": 1781351770147,
-      "status": "BATTLE READY",
-      "relics": [],
       "ancientRelics": []
     },
     {
