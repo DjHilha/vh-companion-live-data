@@ -123,7 +123,7 @@
       "temporal": "glued_mobs",
       "baseCooldown": 6,
       "cooldownExpiry": 1781377453217,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
