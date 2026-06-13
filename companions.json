@@ -2,27 +2,6 @@
   "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
   "companions": [
     {
-      "uuid": "d30e9aa9-7232-4c03-8cb4-4e9cc946a758",
-      "name": "Erionasplash",
-      "skin": "Erionasplash",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 8,
-      "xp": 11425,
-      "vaultRuns": 13,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "bronze_nuke",
-      "baseCooldown": 5,
-      "cooldownExpiry": 1781083391343,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
       "uuid": "7a8033a5-235e-4810-8964-4d731a99e633",
       "name": "Lucsious1",
       "skin": "Lucsious1",
@@ -313,79 +292,6 @@
             "companion_challenge",
             "companion_challenge",
             "xp_gain"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "ac942a8a-abf2-4315-b0df-38fe58d69b00",
-      "name": "Aslakx",
-      "skin": "Aslakx",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 8,
-      "xp": 488654,
-      "vaultRuns": 9,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "rock_solid",
-      "baseCooldown": 9,
-      "cooldownExpiry": 1781356810251,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "extended"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 1,
-          "modifiers": [
-            "ornate_cascade",
-            "living_cascade",
-            "extended"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "4f9d34fb-9daf-4236-a026-8795939bc453",
-      "name": "ISpect",
-      "skin": "ISpect",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 9,
-      "xp": 427342,
-      "vaultRuns": 13,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "bronze_nuke",
-      "baseCooldown": 7,
-      "cooldownExpiry": 1781356690251,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "companion_challenge",
-            "extended",
-            "phoenix"
           ]
         }
       ],
@@ -822,6 +728,141 @@
           ]
         }
       ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "f28c1366-2c10-4b90-978d-9d355901670d",
+      "name": "Magdaluo",
+      "skin": "Magdaluo",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 10,
+      "xp": 1267138,
+      "vaultRuns": 17,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "soul_fest",
+      "baseCooldown": 5,
+      "cooldownExpiry": 1781356510251,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "wooden_cascade"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "gilded",
+            "ornate_cascade",
+            "companion_challenge"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "4f9d34fb-9daf-4236-a026-8795939bc453",
+      "name": "ISpect",
+      "skin": "ISpect",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 9,
+      "xp": 427342,
+      "vaultRuns": 13,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 7,
+      "cooldownExpiry": 1781356690251,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "companion_challenge",
+            "extended",
+            "phoenix"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "ac942a8a-abf2-4315-b0df-38fe58d69b00",
+      "name": "Aslakx",
+      "skin": "Aslakx",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 8,
+      "xp": 488654,
+      "vaultRuns": 9,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "rock_solid",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781356810251,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "living_cascade",
+            "extended"
+          ]
+        }
+      ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "d30e9aa9-7232-4c03-8cb4-4e9cc946a758",
+      "name": "Erionasplash",
+      "skin": "Erionasplash",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 8,
+      "xp": 11425,
+      "vaultRuns": 13,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 5,
+      "cooldownExpiry": 1781083391343,
+      "status": "BATTLE READY",
+      "relics": [],
       "ancientRelics": []
     }
   ]
