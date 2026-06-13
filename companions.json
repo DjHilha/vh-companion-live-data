@@ -195,38 +195,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "4f9d34fb-9daf-4236-a026-8795939bc453",
-      "name": "ISpect",
-      "skin": "ISpect",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 8,
-      "xp": 1231752,
-      "vaultRuns": 11,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "bronze_nuke",
-      "baseCooldown": 7,
-      "cooldownExpiry": 1781352130147,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "companion_challenge",
-            "extended",
-            "phoenix"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "0ac2e32c-f524-48ed-b449-9eff1c39b769",
       "name": "MommyNikki284",
       "skin": "MommyNikki284",
