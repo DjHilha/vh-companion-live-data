@@ -128,27 +128,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "152b03ac-cba6-4680-a76d-6ed9e82f489a",
-      "name": "iskall85",
-      "skin": "iskall85",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 4,
-      "xp": 121630,
-      "vaultRuns": 1,
-      "hearts": 2,
-      "maxHearts": 2,
-      "active": false,
-      "temporal": "soul_fest",
-      "baseCooldown": 8,
-      "cooldownExpiry": 1781109144491,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
       "uuid": "d93d7b72-64f6-457c-8558-255e10a156c8",
       "name": "Yiannisf12",
       "skin": "Yiannisf12",
@@ -459,83 +438,6 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
-    },
-    {
-      "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
-      "name": "QueenofHarts",
-      "skin": "QueenofHarts",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 17,
-      "xp": 2099681,
-      "vaultRuns": 44,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "loot_goblin",
-      "baseCooldown": 9,
-      "cooldownExpiry": 1781365476238,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 5,
-          "modifiers": [
-            "plentiful",
-            "plentiful"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "ornate",
-            "ornate",
-            "ornate_cascade",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "ornate",
-            "ornate",
-            "ornate_cascade",
-            "living",
-            "ornate",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 5,
-          "modifiers": [
-            "plentiful",
-            "plentiful",
-            "living"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 9,
-          "modifiers": [
-            "ornate",
-            "coin_pile",
-            "ornate_cascade",
-            "companion_challenge",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        }
-      ]
     },
     {
       "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
@@ -953,6 +855,104 @@
             "companion_challenge",
             "companion_challenge",
             "xp_gain"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "152b03ac-cba6-4680-a76d-6ed9e82f489a",
+      "name": "iskall85",
+      "skin": "iskall85",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 4,
+      "xp": 121630,
+      "vaultRuns": 1,
+      "hearts": 2,
+      "maxHearts": 2,
+      "active": false,
+      "temporal": "soul_fest",
+      "baseCooldown": 8,
+      "cooldownExpiry": 1781109144491,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
+      "name": "QueenofHarts",
+      "skin": "QueenofHarts",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 17,
+      "xp": 2099681,
+      "vaultRuns": 44,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 1781365476238,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "living",
+            "ornate",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 9,
+          "modifiers": [
+            "ornate",
+            "coin_pile",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge"
           ]
         }
       ]
