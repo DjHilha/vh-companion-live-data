@@ -583,8 +583,8 @@
       "active": true,
       "temporal": "daycare",
       "baseCooldown": 5,
-      "cooldownExpiry": 1781543601997,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
