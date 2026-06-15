@@ -274,11 +274,11 @@
       "vaultRuns": 17,
       "hearts": 5,
       "maxHearts": 5,
-      "active": true,
+      "active": false,
       "temporal": "soul_fest",
       "baseCooldown": 5,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
       "relics": [
         {
           "slot": "0",
