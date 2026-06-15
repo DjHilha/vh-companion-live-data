@@ -518,7 +518,7 @@
       "temporal": "rock_solid",
       "baseCooldown": 8,
       "cooldownExpiry": 1781544081997,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
