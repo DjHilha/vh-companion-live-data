@@ -753,11 +753,11 @@
       "vaultRuns": 13,
       "hearts": 4,
       "maxHearts": 5,
-      "active": false,
+      "active": true,
       "temporal": "kill_totem",
       "baseCooldown": 10,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
