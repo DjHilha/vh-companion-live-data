@@ -986,6 +986,27 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "47bb3d5a-30bf-4210-99d4-eb2c7e4dd239",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 8,
+      "xp": 1210705,
+      "vaultRuns": 0,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": false,
+      "temporal": "overpower",
+      "baseCooldown": 6,
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
