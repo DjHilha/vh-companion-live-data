@@ -980,7 +980,7 @@
       "hearts": 1,
       "maxHearts": 1,
       "active": true,
-      "temporal": "kill_hunter",
+      "temporal": "bronze_nuke",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
