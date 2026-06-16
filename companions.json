@@ -389,7 +389,7 @@
       "temporal": "lunar",
       "baseCooldown": 6,
       "cooldownExpiry": 1781622903292,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
