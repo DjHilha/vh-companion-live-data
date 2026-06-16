@@ -957,6 +957,107 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "fdb3037b-9b2b-4f75-98c8-5d8670764a2c",
+      "name": "LadyLilac84",
+      "skin": "LadyLilac84",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 12,
+      "xp": 691672,
+      "vaultRuns": 15,
+      "hearts": 4,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "kill_totem",
+      "baseCooldown": 10,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "living_cascade",
+            "wooden_bonus",
+            "living_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "coin_cascade",
+            "ornate_cascade"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 9,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded",
+            "wooden_bonus",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "7bd0f723-5b2a-46ce-adc3-4c68a0b5f024",
+      "name": "BaliasX",
+      "skin": "BaliasX",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
