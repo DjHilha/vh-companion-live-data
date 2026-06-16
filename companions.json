@@ -867,7 +867,7 @@
       "temporal": "bronze_nuke",
       "baseCooldown": 6,
       "cooldownExpiry": 1781622963292,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -950,11 +950,11 @@
       "vaultRuns": 0,
       "hearts": 0,
       "maxHearts": 1,
-      "active": false,
+      "active": true,
       "temporal": "glued_mobs",
       "baseCooldown": 0,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
