@@ -934,7 +934,7 @@
       "level": 1,
       "xp": 1200,
       "vaultRuns": 0,
-      "hearts": 0,
+      "hearts": 1,
       "maxHearts": 1,
       "active": true,
       "temporal": "glued_mobs",
