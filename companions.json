@@ -319,60 +319,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
-      "name": "Unkool_Dad",
-      "skin": "Unkool_Dad",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 12,
-      "xp": 2626329,
-      "vaultRuns": 21,
-      "hearts": 4,
-      "maxHearts": 5,
-      "active": false,
-      "temporal": "ultimate_regeneration",
-      "baseCooldown": 9,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "living"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "ornate",
-            "ornate",
-            "living_cascade",
-            "living_cascade",
-            "living",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "plentiful"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "0ac2e32c-f524-48ed-b449-9eff1c39b769",
       "name": "MommyNikki284",
       "skin": "MommyNikki284",
@@ -1066,6 +1012,60 @@
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
       "relics": [],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
+      "name": "Unkool_Dad",
+      "skin": "Unkool_Dad",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 12,
+      "xp": 2626329,
+      "vaultRuns": 21,
+      "hearts": 4,
+      "maxHearts": 5,
+      "active": false,
+      "temporal": "ultimate_regeneration",
+      "baseCooldown": 9,
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "living"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "living_cascade",
+            "living_cascade",
+            "living",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "plentiful"
+          ]
+        }
+      ],
       "ancientRelics": []
     }
   ]
