@@ -813,12 +813,11 @@
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 5,
+          "model": 6,
           "modifiers": [
-            "plentiful",
-            "plentiful",
-            "xp_gain",
-            "companion_challenge"
+            "living_cascade",
+            "living_cascade",
+            "extended"
           ]
         }
       ]
