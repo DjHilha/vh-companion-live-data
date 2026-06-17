@@ -521,7 +521,17 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "xp_gain",
+            "extended"
+          ]
+        }
+      ]
     },
     {
       "uuid": "152b03ac-cba6-4680-a76d-6ed9e82f489a",
