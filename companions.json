@@ -1128,6 +1128,27 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "2ba8422a-c857-4118-82a3-ba328a1f7ad7",
+      "name": "Bunta420",
+      "skin": "Bunta420",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "pylon_hunter",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
