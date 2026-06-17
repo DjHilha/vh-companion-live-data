@@ -351,15 +351,10 @@
         },
         {
           "slot": "1",
-          "model": 2,
+          "model": 1,
           "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "phoenix",
-            "xp_gain",
-            "companion_challenge",
-            "companion_challenge",
-            "phoenix"
+            "ornate_cascade",
+            "ornate_cascade"
           ]
         },
         {
@@ -802,11 +797,16 @@
         },
         {
           "slot": "3",
-          "model": 4,
+          "model": 2,
           "modifiers": [
-            "wooden_cascade",
-            "companion_challenge",
-            "extended"
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded",
+            "xp_gain",
+            "extended",
+            "phoenix",
+            "xp_gain"
           ]
         }
       ],
@@ -1084,39 +1084,50 @@
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 5,
+          "model": 6,
           "modifiers": [
-            "plentiful",
-            "plentiful",
-            "plentiful",
-            "plentiful",
+            "living_cascade",
             "xp_gain",
-            "companion_challenge",
-            "companion_challenge",
-            "xp_gain"
+            "extended",
+            "phoenix",
+            "companion_challenge"
           ]
         }
       ]
     },
     {
-      "uuid": "1f0c5e19-3cd2-4e12-97f8-cddc5e053379",
+      "uuid": "47bb3d5a-30bf-4210-99d4-eb2c7e4dd239",
       "name": "Hilha",
       "skin": "Hilha",
       "owner": "Hilha",
       "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
       "series": "LEGEND",
-      "type": "minion",
-      "level": 1,
-      "xp": 0,
+      "type": "Minion",
+      "level": 8,
+      "xp": 1210705,
       "vaultRuns": 0,
-      "hearts": 1,
-      "maxHearts": 1,
+      "hearts": 4,
+      "maxHearts": 4,
       "active": true,
-      "temporal": "rock_solid",
-      "baseCooldown": 0,
+      "temporal": "overpower",
+      "baseCooldown": 6,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "phoenix",
+            "xp_gain",
+            "companion_challenge"
+          ]
+        }
+      ],
       "ancientRelics": []
     }
   ]
