@@ -1024,16 +1024,13 @@
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 8,
+          "model": 5,
           "modifiers": [
             "plentiful",
-            "coin_cascade",
-            "living",
-            "gilded",
+            "plentiful",
             "companion_challenge",
             "companion_challenge",
-            "companion_challenge",
-            "companion_challenge"
+            "extended"
           ]
         }
       ]
