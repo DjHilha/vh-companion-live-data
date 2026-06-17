@@ -545,81 +545,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
-      "name": "Grim_Stoner",
-      "skin": "Grim_Stoner",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 12,
-      "xp": 1402639,
-      "vaultRuns": 29,
-      "hearts": 3,
-      "maxHearts": 5,
-      "active": false,
-      "temporal": "loot_goblin",
-      "baseCooldown": 9,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "phoenix"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_bonus",
-            "gilded_cascade",
-            "living_cascade"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "coin_cascade",
-            "living",
-            "extended"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "living"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 8,
-          "modifiers": [
-            "plentiful",
-            "coin_cascade",
-            "living",
-            "gilded",
-            "companion_challenge",
-            "companion_challenge",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        }
-      ]
-    },
-    {
       "uuid": "152b03ac-cba6-4680-a76d-6ed9e82f489a",
       "name": "iskall85",
       "skin": "iskall85",
@@ -1039,25 +964,79 @@
       "ancientRelics": []
     },
     {
-      "uuid": "47bb3d5a-30bf-4210-99d4-eb2c7e4dd239",
-      "name": "Hilha",
-      "skin": "Hilha",
+      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
+      "name": "Grim_Stoner",
+      "skin": "Grim_Stoner",
       "owner": "Hilha",
       "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
       "series": "LEGEND",
       "type": "Minion",
-      "level": 8,
-      "xp": 1210705,
-      "vaultRuns": 0,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "overpower",
-      "baseCooldown": 6,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
+      "level": 12,
+      "xp": 1402639,
+      "vaultRuns": 29,
+      "hearts": 3,
+      "maxHearts": 5,
+      "active": false,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "phoenix"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_bonus",
+            "gilded_cascade",
+            "living_cascade"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "coin_cascade",
+            "living",
+            "extended"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 8,
+          "modifiers": [
+            "plentiful",
+            "coin_cascade",
+            "living",
+            "gilded",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ]
     }
   ]
 }
