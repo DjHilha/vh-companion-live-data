@@ -994,10 +994,12 @@
       "relics": [
         {
           "slot": "0",
-          "model": 2,
+          "model": 3,
           "modifiers": [
-            "coin_pile",
-            "phoenix"
+            "gilded_cascade",
+            "gilded_cascade",
+            "xp_gain",
+            "companion_challenge"
           ]
         },
         {
