@@ -954,7 +954,17 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1781711379028,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "xp_gain",
+            "extended"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
@@ -1173,6 +1183,19 @@
             "phoenix",
             "xp_gain",
             "companion_challenge"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate",
+            "xp_gain",
+            "companion_challenge",
+            "xp_gain"
           ]
         }
       ],
