@@ -506,6 +506,20 @@
             "companion_challenge",
             "xp_gain"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "extended"
+          ]
         }
       ],
       "ancientRelics": []
@@ -838,8 +852,8 @@
       "active": true,
       "temporal": "kill_totem",
       "baseCooldown": 10,
-      "cooldownExpiry": 1781708599765,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -936,11 +950,11 @@
       "vaultRuns": 0,
       "hearts": 1,
       "maxHearts": 1,
-      "active": false,
+      "active": true,
       "temporal": "glued_mobs",
       "baseCooldown": 0,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     },
@@ -1168,7 +1182,19 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1781707279765,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "phoenix",
+            "xp_gain",
+            "extended"
+          ]
+        }
+      ],
       "ancientRelics": []
     }
   ]
