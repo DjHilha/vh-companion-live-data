@@ -468,11 +468,11 @@
       "vaultRuns": 10,
       "hearts": 4,
       "maxHearts": 4,
-      "active": false,
+      "active": true,
       "temporal": "daycare",
       "baseCooldown": 5,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
