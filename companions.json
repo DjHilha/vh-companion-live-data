@@ -1020,13 +1020,14 @@
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 5,
+          "model": 6,
           "modifiers": [
-            "plentiful",
-            "plentiful",
-            "companion_challenge",
-            "companion_challenge",
-            "extended"
+            "living_cascade",
+            "living_cascade",
+            "living_cascade",
+            "living_cascade",
+            "phoenix",
+            "phoenix"
           ]
         }
       ]
