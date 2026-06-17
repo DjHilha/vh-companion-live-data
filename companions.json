@@ -351,10 +351,15 @@
         },
         {
           "slot": "1",
-          "model": 6,
+          "model": 2,
           "modifiers": [
-            "living_cascade",
-            "extended"
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "phoenix",
+            "phoenix",
+            "companion_challenge",
+            "companion_challenge"
           ]
         },
         {
@@ -1021,7 +1026,21 @@
       "baseCooldown": 6,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "phoenix",
+            "xp_gain",
+            "companion_challenge"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
@@ -1074,9 +1093,34 @@
             "coin_pile",
             "plentiful"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "xp_gain",
+            "companion_challenge",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        }
+      ]
     }
   ]
 }
