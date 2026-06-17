@@ -365,6 +365,16 @@
             "gilded",
             "extended"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "phoenix"
+          ]
         }
       ],
       "ancientRelics": []
