@@ -355,11 +355,11 @@
           "modifiers": [
             "coin_cascade",
             "coin_cascade",
-            "coin_cascade",
             "phoenix",
-            "phoenix",
+            "xp_gain",
             "companion_challenge",
-            "companion_challenge"
+            "companion_challenge",
+            "phoenix"
           ]
         },
         {
@@ -810,7 +810,18 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "xp_gain",
+            "companion_challenge"
+          ]
+        }
+      ]
     },
     {
       "uuid": "fdb3037b-9b2b-4f75-98c8-5d8670764a2c",
@@ -1009,41 +1020,6 @@
       ]
     },
     {
-      "uuid": "47bb3d5a-30bf-4210-99d4-eb2c7e4dd239",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 8,
-      "xp": 1210705,
-      "vaultRuns": 0,
-      "hearts": 4,
-      "maxHearts": 4,
-      "active": true,
-      "temporal": "overpower",
-      "baseCooldown": 6,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "phoenix",
-            "xp_gain",
-            "companion_challenge"
-          ]
-        }
-      ],
-      "ancientRelics": []
-    },
-    {
       "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
       "name": "Unkool_Dad",
       "skin": "Unkool_Dad",
@@ -1121,6 +1097,27 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "1f0c5e19-3cd2-4e12-97f8-cddc5e053379",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "rock_solid",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
