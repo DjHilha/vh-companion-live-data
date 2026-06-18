@@ -396,7 +396,7 @@
       "temporal": "rock_solid",
       "baseCooldown": 8,
       "cooldownExpiry": 1781786362837,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -858,11 +858,11 @@
       "vaultRuns": 19,
       "hearts": 4,
       "maxHearts": 5,
-      "active": false,
+      "active": true,
       "temporal": "kill_totem",
       "baseCooldown": 10,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -1232,11 +1232,11 @@
       "vaultRuns": 0,
       "hearts": 4,
       "maxHearts": 4,
-      "active": true,
+      "active": false,
       "temporal": "overpower",
       "baseCooldown": 6,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
       "relics": [
         {
           "slot": "0",
