@@ -1271,8 +1271,11 @@
           "model": 2,
           "modifiers": [
             "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
             "companion_challenge",
-            "phoenix"
+            "companion_challenge"
           ]
         }
       ],
