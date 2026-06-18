@@ -1265,6 +1265,15 @@
             "companion_challenge",
             "phoenix"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "companion_challenge",
+            "phoenix"
+          ]
         }
       ],
       "ancientRelics": []
