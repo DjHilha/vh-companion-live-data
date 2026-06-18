@@ -993,81 +993,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
-      "name": "Grim_Stoner",
-      "skin": "Grim_Stoner",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "Minion",
-      "level": 13,
-      "xp": 4169706,
-      "vaultRuns": 32,
-      "hearts": 3,
-      "maxHearts": 5,
-      "active": false,
-      "temporal": "loot_goblin",
-      "baseCooldown": 9,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "xp_gain",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_bonus",
-            "gilded_cascade",
-            "living_cascade"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "coin_cascade",
-            "living",
-            "extended"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 2,
-          "modifiers": [
-            "living",
-            "living",
-            "living",
-            "living"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 6,
-          "modifiers": [
-            "living_cascade",
-            "living_cascade",
-            "living_cascade",
-            "living_cascade",
-            "phoenix",
-            "phoenix"
-          ]
-        }
-      ]
-    },
-    {
       "uuid": "eb91fbe5-709a-469a-b203-8e0fcdfa5113",
       "name": "Unkool_Dad",
       "skin": "Unkool_Dad",
@@ -1295,6 +1220,81 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "ad718d71-bd15-4819-9ba7-a1b860e9ea52",
+      "name": "Grim_Stoner",
+      "skin": "Grim_Stoner",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 13,
+      "xp": 4169706,
+      "vaultRuns": 32,
+      "hearts": 3,
+      "maxHearts": 5,
+      "active": false,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "xp_gain",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_bonus",
+            "gilded_cascade",
+            "living_cascade"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "coin_cascade",
+            "living",
+            "extended"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "living",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "living_cascade",
+            "living_cascade",
+            "living_cascade",
+            "phoenix",
+            "phoenix"
+          ]
+        }
+      ]
     }
   ]
 }
