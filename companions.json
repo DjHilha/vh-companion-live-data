@@ -392,11 +392,11 @@
       "vaultRuns": 20,
       "hearts": 3,
       "maxHearts": 5,
-      "active": false,
+      "active": true,
       "temporal": "rock_solid",
       "baseCooldown": 8,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
