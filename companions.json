@@ -199,8 +199,8 @@
       "active": true,
       "temporal": "soul_fest",
       "baseCooldown": 5,
-      "cooldownExpiry": 1781891639360,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -240,8 +240,8 @@
       "active": true,
       "temporal": "bronze_nuke",
       "baseCooldown": 7,
-      "cooldownExpiry": 1781891819360,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -272,8 +272,8 @@
       "active": true,
       "temporal": "rock_solid",
       "baseCooldown": 9,
-      "cooldownExpiry": 1781891999360,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -334,8 +334,8 @@
       "active": true,
       "temporal": "lunar",
       "baseCooldown": 6,
-      "cooldownExpiry": 1781891819360,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -410,8 +410,8 @@
       "active": true,
       "temporal": "rock_solid",
       "baseCooldown": 8,
-      "cooldownExpiry": 1781892179360,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -977,7 +977,7 @@
       "active": true,
       "temporal": "glued_mobs",
       "baseCooldown": 0,
-      "cooldownExpiry": 1781891039360,
+      "cooldownExpiry": 0,
       "status": "BATTLE READY",
       "relics": [
         {
@@ -1142,7 +1142,7 @@
       "active": true,
       "temporal": "kill_hunter",
       "baseCooldown": 0,
-      "cooldownExpiry": 1781891039360,
+      "cooldownExpiry": 0,
       "status": "BATTLE READY",
       "relics": [
         {
@@ -1175,8 +1175,8 @@
       "active": true,
       "temporal": "overpower",
       "baseCooldown": 6,
-      "cooldownExpiry": 1781891699360,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -1237,8 +1237,8 @@
       "active": true,
       "temporal": "loot_goblin",
       "baseCooldown": 9,
-      "cooldownExpiry": 1781892239360,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
