@@ -1176,7 +1176,7 @@
       "temporal": "overpower",
       "baseCooldown": 6,
       "cooldownExpiry": 1781892862761,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
