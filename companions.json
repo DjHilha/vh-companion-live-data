@@ -1233,6 +1233,68 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "47bb3d5a-30bf-4210-99d4-eb2c7e4dd239",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "Minion",
+      "level": 11,
+      "xp": 2601519,
+      "vaultRuns": 3,
+      "hearts": 3,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "overpower",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1781892862761,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "phoenix",
+            "xp_gain",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "xp_gain",
+            "xp_gain",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge",
+            "phoenix"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ],
+      "ancientRelics": []
     }
   ]
 }
