@@ -1295,10 +1295,15 @@
         },
         {
           "slot": "3",
-          "model": 2,
+          "model": 7,
           "modifiers": [
-            "living",
-            "companion_challenge"
+            "coin_cascade",
+            "coin_cascade",
+            "pandoras_box",
+            "phoenix",
+            "extended",
+            "coin_pile",
+            "coin_pile"
           ]
         }
       ],
