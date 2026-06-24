@@ -506,7 +506,7 @@
       "temporal": "glued_mobs",
       "baseCooldown": 5,
       "cooldownExpiry": 1782342041173,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -1225,8 +1225,8 @@
       "active": true,
       "temporal": "door_hunter",
       "baseCooldown": 6,
-      "cooldownExpiry": 1782342161173,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
