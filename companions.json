@@ -971,6 +971,15 @@
             "companion_challenge",
             "extended"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "xp_gain",
+            "phoenix"
+          ]
         }
       ],
       "ancientRelics": []
