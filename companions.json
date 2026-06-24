@@ -197,7 +197,7 @@
       "hearts": 4,
       "maxHearts": 5,
       "active": true,
-      "temporal": "soul_fest",
+      "temporal": "bronze_nuke",
       "baseCooldown": 5,
       "cooldownExpiry": 1782316570395,
       "status": "BATTLE READY",
