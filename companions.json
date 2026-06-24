@@ -200,7 +200,7 @@
       "temporal": "soul_fest",
       "baseCooldown": 5,
       "cooldownExpiry": 1782316570395,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
