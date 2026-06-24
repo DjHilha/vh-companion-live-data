@@ -1223,7 +1223,7 @@
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
-      "temporal": "loot_goblin",
+      "temporal": "bronze_nuke",
       "baseCooldown": 6,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
