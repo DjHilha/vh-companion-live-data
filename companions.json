@@ -1272,12 +1272,12 @@
           "slot": "3",
           "model": 2,
           "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "companion_challenge"
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful"
           ]
         }
       ],
