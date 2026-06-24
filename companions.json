@@ -354,7 +354,7 @@
       "temporal": "lunar",
       "baseCooldown": 6,
       "cooldownExpiry": 1782322782463,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -738,7 +738,7 @@
       "temporal": "bronze_nuke",
       "baseCooldown": 6,
       "cooldownExpiry": 1782322782463,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
