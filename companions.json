@@ -810,8 +810,8 @@
       "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
       "series": "LEGEND",
       "type": "minion",
-      "level": 15,
-      "xp": 2743650,
+      "level": 16,
+      "xp": 771433,
       "vaultRuns": 19,
       "hearts": 4,
       "maxHearts": 5,
@@ -921,6 +921,16 @@
             "wooden_cascade",
             "xp_gain",
             "phoenix"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "xp_gain"
           ]
         }
       ],
