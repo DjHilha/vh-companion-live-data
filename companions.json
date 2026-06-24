@@ -191,8 +191,8 @@
       "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
       "series": "LEGEND",
       "type": "minion",
-      "level": 10,
-      "xp": 2386633,
+      "level": 11,
+      "xp": 725296,
       "vaultRuns": 19,
       "hearts": 4,
       "maxHearts": 5,
@@ -872,7 +872,7 @@
       "series": "LEGEND",
       "type": "minion",
       "level": 6,
-      "xp": 236035,
+      "xp": 373242,
       "vaultRuns": 2,
       "hearts": 3,
       "maxHearts": 3,
@@ -1254,6 +1254,83 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "e62f7f75-b6e1-4b41-87e7-f605a6e54366",
+      "name": "QueenofHarts",
+      "skin": "QueenofHarts",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 19,
+      "xp": 6295603,
+      "vaultRuns": 46,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 9,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "ornate",
+            "ornate",
+            "ornate_cascade",
+            "living",
+            "ornate",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "living"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 9,
+          "modifiers": [
+            "ornate",
+            "coin_pile",
+            "ornate_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ]
     }
   ]
 }
