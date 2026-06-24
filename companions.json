@@ -1226,7 +1226,7 @@
       "temporal": "door_hunter",
       "baseCooldown": 6,
       "cooldownExpiry": 1782333735536,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
