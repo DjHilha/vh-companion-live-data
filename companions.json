@@ -503,7 +503,7 @@
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
-      "temporal": "daycare",
+      "temporal": "glued_mobs",
       "baseCooldown": 5,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
