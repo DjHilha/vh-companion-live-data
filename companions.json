@@ -506,7 +506,7 @@
       "temporal": "glued_mobs",
       "baseCooldown": 5,
       "cooldownExpiry": 1782415770012,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
