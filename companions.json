@@ -1337,10 +1337,14 @@
         },
         {
           "slot": "1",
-          "model": 3,
+          "model": 2,
           "modifiers": [
-            "gilded_cascade",
-            "extended"
+            "coin_pile",
+            "extended",
+            "xp_gain",
+            "extended",
+            "phoenix",
+            "xp_gain"
           ]
         },
         {
