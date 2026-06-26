@@ -338,82 +338,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "0ac2e32c-f524-48ed-b449-9eff1c39b769",
-      "name": "MommyNikki284",
-      "skin": "MommyNikki284",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 19,
-      "xp": 2528003,
-      "vaultRuns": 38,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "lunar",
-      "baseCooldown": 6,
-      "cooldownExpiry": 1782486895000,
-      "status": "SLEEPING",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "companion_challenge",
-            "extended"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 1,
-          "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_pile",
-            "gilded",
-            "extended"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 1,
-          "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "phoenix"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 5,
-          "modifiers": [
-            "plentiful",
-            "plentiful",
-            "plentiful",
-            "xp_gain",
-            "extended",
-            "companion_challenge",
-            "extended",
-            "xp_gain"
-          ]
-        }
-      ]
-    },
-    {
       "uuid": "0e82c54b-e44e-4095-aa7f-9699afe7b88b",
       "name": "Rhaw_G",
       "skin": "Rhaw_G",
@@ -1379,6 +1303,82 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "0ac2e32c-f524-48ed-b449-9eff1c39b769",
+      "name": "MommyNikki284",
+      "skin": "MommyNikki284",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 19,
+      "xp": 2528003,
+      "vaultRuns": 38,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "lunar",
+      "baseCooldown": 6,
+      "cooldownExpiry": 1782486895000,
+      "status": "SLEEPING",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "ornate_cascade"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "gilded",
+            "extended"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "phoenix"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "xp_gain",
+            "extended",
+            "companion_challenge",
+            "extended",
+            "xp_gain"
+          ]
+        }
+      ]
     }
   ]
 }
