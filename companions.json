@@ -354,7 +354,7 @@
       "temporal": "rock_solid",
       "baseCooldown": 8,
       "cooldownExpiry": 1782499558238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -1075,7 +1075,7 @@
       "temporal": "loot_goblin",
       "baseCooldown": 9,
       "cooldownExpiry": 1782499558238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
