@@ -1222,7 +1222,7 @@
       "active": true,
       "temporal": "loot_goblin",
       "baseCooldown": 9,
-      "cooldownExpiry": 1782416730012,
+      "cooldownExpiry": 0,
       "status": "BATTLE READY",
       "relics": [
         {
