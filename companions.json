@@ -908,7 +908,7 @@
       "temporal": "ultimate_regeneration",
       "baseCooldown": 9,
       "cooldownExpiry": 1782499618238,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
