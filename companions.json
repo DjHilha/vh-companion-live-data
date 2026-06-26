@@ -742,8 +742,8 @@
       "active": true,
       "temporal": "kill_totem",
       "baseCooldown": 10,
-      "cooldownExpiry": 1782499978238,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
