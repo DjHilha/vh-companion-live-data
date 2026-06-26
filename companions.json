@@ -1075,7 +1075,7 @@
       "temporal": "loot_goblin",
       "baseCooldown": 9,
       "cooldownExpiry": 1782487135000,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
