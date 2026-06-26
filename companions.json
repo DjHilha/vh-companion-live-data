@@ -1340,11 +1340,9 @@
           "model": 2,
           "modifiers": [
             "coin_pile",
+            "coin_pile",
             "extended",
-            "xp_gain",
-            "extended",
-            "phoenix",
-            "xp_gain"
+            "phoenix"
           ]
         },
         {
