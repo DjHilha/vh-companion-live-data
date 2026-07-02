@@ -159,49 +159,6 @@
         }
       ],
       "ancientRelics": []
-    },
-    {
-      "uuid": "55c7ed18-d9ad-485a-8ec3-44c46d2a1dce",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 6,
-      "xp": 140000,
-      "vaultRuns": 0,
-      "hearts": 3,
-      "maxHearts": 3,
-      "active": true,
-      "temporal": "ultimate_regeneration",
-      "baseCooldown": 0,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "companion_challenge",
-            "extended",
-            "phoenix",
-            "xp_gain"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "extended",
-            "phoenix",
-            "extended"
-          ]
-        }
-      ],
-      "ancientRelics": []
     }
   ]
 }
