@@ -19,7 +19,25 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1783015491802,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "companion_modifiers",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 3,
+          "modifiers": [
+            "extended",
+            "phoenix"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
