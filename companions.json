@@ -24,9 +24,7 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "companion_modifiers",
-            "companion_challenge",
-            "xp_gain"
+            "extended"
           ]
         },
         {
