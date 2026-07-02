@@ -68,6 +68,15 @@
           "modifiers": [
             "living"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "companion_modifiers",
+            "companion_challenge",
+            "extended"
+          ]
         }
       ],
       "ancientRelics": []
