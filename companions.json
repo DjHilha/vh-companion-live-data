@@ -1323,11 +1323,11 @@
       "vaultRuns": 9,
       "hearts": 5,
       "maxHearts": 5,
-      "active": true,
+      "active": false,
       "temporal": "door_hunter",
       "baseCooldown": 6,
-      "cooldownExpiry": 1782486775000,
-      "status": "BATTLE READY",
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
       "relics": [
         {
           "slot": "0",
