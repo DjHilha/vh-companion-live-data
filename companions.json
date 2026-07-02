@@ -1,26 +1,4 @@
 {
   "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-  "companions": [
-    {
-      "uuid": "23f05941-2ea1-4db8-850b-fa0b7fe63b55",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 1,
-      "xp": 0,
-      "vaultRuns": 0,
-      "hearts": 1,
-      "maxHearts": 1,
-      "active": true,
-      "temporal": "lunar",
-      "baseCooldown": 0,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    }
-  ]
+  "companions": []
 }
