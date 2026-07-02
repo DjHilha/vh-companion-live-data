@@ -128,27 +128,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "e85abae5-45ee-4066-b9c9-dc166a070126",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 1,
-      "xp": 0,
-      "vaultRuns": 0,
-      "hearts": 1,
-      "maxHearts": 1,
-      "active": true,
-      "temporal": "rock_solid",
-      "baseCooldown": 0,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
       "uuid": "15c12de3-a736-4d3b-97a4-285ee3cd2ead",
       "name": "Grim_Stoner",
       "skin": "Grim_Stoner",
