@@ -66,7 +66,8 @@
           "slot": "0",
           "model": 1,
           "modifiers": [
-            "living"
+            "extended",
+            "xp_gain"
           ]
         },
         {
