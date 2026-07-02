@@ -186,6 +186,14 @@
             "companion_challenge",
             "phoenix"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 3,
+          "modifiers": [
+            "companion_challenge",
+            "companion_challenge"
+          ]
         }
       ],
       "ancientRelics": []
