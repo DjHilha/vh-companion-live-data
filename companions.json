@@ -162,7 +162,7 @@
       "hearts": 1,
       "maxHearts": 1,
       "active": true,
-      "temporal": "ultimate_regeneration",
+      "temporal": "lunar",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
