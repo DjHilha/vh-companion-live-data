@@ -61,7 +61,15 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1783015491802,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "extended"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
