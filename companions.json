@@ -64,9 +64,9 @@
       "relics": [
         {
           "slot": "0",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "extended",
+            "phoenix",
             "xp_gain"
           ]
         },
