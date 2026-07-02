@@ -42,6 +42,27 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "4262c8ba-1f8a-497e-ad30-33d6cf2a603c",
+      "name": "rhaw_g",
+      "skin": "rhaw_g",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "champion_domain",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
