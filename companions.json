@@ -178,29 +178,7 @@
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "companion_challenge",
-            "extended",
-            "phoenix",
-            "xp_gain"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "ornate",
-            "extended",
-            "phoenix",
-            "extended"
-          ]
-        }
-      ],
+      "relics": [],
       "ancientRelics": []
     }
   ]
