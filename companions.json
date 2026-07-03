@@ -75,7 +75,7 @@
       "active": true,
       "temporal": "kill_hunter",
       "baseCooldown": 0,
-      "cooldownExpiry": 1783015491802,
+      "cooldownExpiry": 0,
       "status": "BATTLE READY",
       "relics": [
         {
