@@ -120,27 +120,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "c1ef5d7d-079f-4695-ac20-ba2ba98b7428",
-      "name": "Aslakx",
-      "skin": "Aslakx",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 5,
-      "xp": 75448,
-      "vaultRuns": 1,
-      "hearts": 3,
-      "maxHearts": 3,
-      "active": true,
-      "temporal": "kill_charm",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1783015491802,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
       "uuid": "c096596b-2121-4760-b466-306d4ec29e5a",
       "name": "Aslakx",
       "skin": "Aslakx",
@@ -199,27 +178,6 @@
           ]
         }
       ],
-      "ancientRelics": []
-    },
-    {
-      "uuid": "6264e542-1cc2-4ad7-b4af-81735edcea65",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 1,
-      "xp": 3240,
-      "vaultRuns": 0,
-      "hearts": 1,
-      "maxHearts": 1,
-      "active": true,
-      "temporal": "overpower",
-      "baseCooldown": 0,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
-      "relics": [],
       "ancientRelics": []
     }
   ]
