@@ -120,27 +120,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "c096596b-2121-4760-b466-306d4ec29e5a",
-      "name": "Aslakx",
-      "skin": "Aslakx",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 5,
-      "xp": 73777,
-      "vaultRuns": 1,
-      "hearts": 3,
-      "maxHearts": 3,
-      "active": true,
-      "temporal": "kill_frostnova",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1783015491802,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
       "uuid": "15c12de3-a736-4d3b-97a4-285ee3cd2ead",
       "name": "Grim_Stoner",
       "skin": "Grim_Stoner",
