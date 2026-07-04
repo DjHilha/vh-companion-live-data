@@ -172,11 +172,11 @@
       "vaultRuns": 0,
       "hearts": 4,
       "maxHearts": 4,
-      "active": true,
+      "active": false,
       "temporal": "bronze_nuke",
       "baseCooldown": 0,
-      "cooldownExpiry": 0,
-      "status": "BATTLE READY",
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
       "relics": [],
       "ancientRelics": []
     }
