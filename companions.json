@@ -158,6 +158,27 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "a54077ac-d2d6-40a1-8ae0-501abc0a9285",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 9,
+      "xp": 353773,
+      "vaultRuns": 0,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
