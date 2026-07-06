@@ -158,6 +158,27 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "a54077ac-d2d6-40a1-8ae0-501abc0a9285",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 9,
+      "xp": 664528,
+      "vaultRuns": 0,
+      "hearts": 4,
+      "maxHearts": 4,
+      "active": false,
+      "temporal": "loot_goblin",
+      "baseCooldown": 0,
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
