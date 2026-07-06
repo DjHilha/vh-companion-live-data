@@ -177,7 +177,18 @@
       "baseCooldown": 0,
       "cooldownExpiry": 9223372036854775807,
       "status": "SLEEPING",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ],
       "ancientRelics": []
     }
   ]
