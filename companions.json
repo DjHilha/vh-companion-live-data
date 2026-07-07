@@ -246,6 +246,14 @@
             "coin_cascade",
             "companion_challenge"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "companion_challenge"
+          ]
         }
       ],
       "ancientRelics": []
