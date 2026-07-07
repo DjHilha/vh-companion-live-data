@@ -71,7 +71,7 @@
       "series": "LEGEND",
       "type": "minion",
       "level": 5,
-      "xp": 195207,
+      "xp": 236728,
       "vaultRuns": 1,
       "hearts": 3,
       "maxHearts": 3,
@@ -152,6 +152,24 @@
         },
         {
           "slot": "1",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "3",
           "model": 3,
           "modifiers": [
             "gilded_cascade",
