@@ -238,7 +238,16 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1783432219099,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "companion_challenge"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
@@ -279,6 +288,27 @@
           ]
         }
       ],
+      "ancientRelics": []
+    },
+    {
+      "uuid": "72065973-731c-4313-a9d3-9c062d53686d",
+      "name": "Lucsious1",
+      "skin": "Lucsious1",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "overpower",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
       "ancientRelics": []
     }
   ]
