@@ -149,6 +149,16 @@
             "coin_cascade",
             "companion_challenge"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
         }
       ],
       "ancientRelics": []
