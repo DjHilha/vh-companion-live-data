@@ -73,7 +73,7 @@
       "hearts": 3,
       "maxHearts": 3,
       "active": true,
-      "temporal": "kill_totem",
+      "temporal": "door_hunter",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
