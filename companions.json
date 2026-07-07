@@ -73,7 +73,7 @@
       "hearts": 3,
       "maxHearts": 3,
       "active": true,
-      "temporal": "door_hunter",
+      "temporal": "pylon_hunter",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
