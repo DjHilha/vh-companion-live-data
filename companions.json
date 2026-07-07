@@ -233,11 +233,11 @@
       "vaultRuns": 2,
       "hearts": 3,
       "maxHearts": 3,
-      "active": true,
+      "active": false,
       "temporal": "overpower",
       "baseCooldown": 0,
-      "cooldownExpiry": 1783432219099,
-      "status": "BATTLE READY",
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
       "relics": [
         {
           "slot": "0",
