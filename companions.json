@@ -330,7 +330,10 @@
           "model": 5,
           "modifiers": [
             "plentiful",
-            "companion_challenge"
+            "plentiful",
+            "companion_challenge",
+            "extended",
+            "phoenix"
           ]
         }
       ]
