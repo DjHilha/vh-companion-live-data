@@ -309,45 +309,6 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
-    },
-    {
-      "uuid": "5578f483-112a-4a4e-a4cf-89beef2ff2f8",
-      "name": "Mommynikki284",
-      "skin": "Mommynikki284",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 7,
-      "xp": 279903,
-      "vaultRuns": 4,
-      "hearts": 3,
-      "maxHearts": 3,
-      "active": true,
-      "temporal": "kill_hunter",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1783448375309,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 4,
-          "modifiers": [
-            "companion_modifiers",
-            "phoenix"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "companion_modifiers",
-            "companion_challenge",
-            "extended"
-          ]
-        }
-      ],
-      "ancientRelics": []
     }
   ]
 }
