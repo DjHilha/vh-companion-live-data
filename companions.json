@@ -179,7 +179,16 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "companion_challenge"
+          ]
+        }
+      ]
     },
     {
       "uuid": "757f41d3-3d09-4771-b62b-fe2566525d78",
