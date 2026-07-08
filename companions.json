@@ -284,6 +284,21 @@
       "status": "BATTLE READY",
       "relics": [
         {
+          "slot": "0",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade"
+          ]
+        },
+        {
           "slot": "2",
           "model": 2,
           "modifiers": [
