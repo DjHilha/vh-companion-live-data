@@ -124,73 +124,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "a54077ac-d2d6-40a1-8ae0-501abc0a9285",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 10,
-      "xp": 481481,
-      "vaultRuns": 1,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "loot_goblin",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1783448375309,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "companion_challenge"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "companion_challenge",
-            "companion_challenge"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 5,
-          "modifiers": [
-            "plentiful",
-            "companion_challenge"
-          ]
-        }
-      ]
-    },
-    {
       "uuid": "757f41d3-3d09-4771-b62b-fe2566525d78",
       "name": "LadyLilac84",
       "skin": "LadyLilac84",
@@ -330,6 +263,55 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "a54077ac-d2d6-40a1-8ae0-501abc0a9285",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 10,
+      "xp": 481481,
+      "vaultRuns": 1,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 0,
+      "cooldownExpiry": 1783448375309,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "companion_challenge"
+          ]
+        }
+      ]
     }
   ]
 }
