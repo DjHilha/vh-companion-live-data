@@ -285,12 +285,12 @@
       "relics": [
         {
           "slot": "0",
-          "model": 3,
+          "model": 2,
           "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "companion_challenge",
-            "companion_challenge"
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade"
           ]
         },
         {
