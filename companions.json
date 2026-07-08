@@ -285,17 +285,20 @@
       "relics": [
         {
           "slot": "0",
-          "model": 2,
+          "model": 3,
           "modifiers": [
-            "phoenix"
+            "gilded_cascade",
+            "gilded_cascade",
+            "companion_challenge",
+            "companion_challenge"
           ]
         },
         {
           "slot": "1",
           "model": 2,
           "modifiers": [
-            "companion_challenge",
-            "extended"
+            "coin_cascade",
+            "companion_challenge"
           ]
         },
         {
@@ -327,6 +330,43 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "53424d6c-78d1-4c74-9d59-6569e765dda8",
+      "name": "MommyNikki284",
+      "skin": "MommyNikki284",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 6,
+      "xp": 39179,
+      "vaultRuns": 0,
+      "hearts": 3,
+      "maxHearts": 3,
+      "active": false,
+      "temporal": "kill_hunter",
+      "baseCooldown": 9,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "companion_challenge",
+            "extended"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "phoenix"
+          ]
+        }
+      ],
+      "ancientRelics": []
     }
   ]
 }
