@@ -361,7 +361,8 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "companion_challenge",
+            "coin_pile",
+            "companion_modifiers",
             "extended"
           ]
         },
