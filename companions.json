@@ -136,13 +136,11 @@
         },
         {
           "slot": "3",
-          "model": 1,
+          "model": 3,
           "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade",
-            "companion_modifier",
-            "companion_modifier",
-            "extended"
+            "gilded_cascade",
+            "gilded_cascade",
+            "xp_gain"
           ]
         }
       ],
