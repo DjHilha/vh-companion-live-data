@@ -151,8 +151,8 @@
           "modifiers": [
             "living_cascade",
             "living_cascade",
-            "companion_modifier",
-            "companion_challenge"
+            "companion_challenge",
+            "phoenix"
           ]
         }
       ]
