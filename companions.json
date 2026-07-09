@@ -405,20 +405,21 @@
         },
         {
           "slot": "1",
-          "model": 1,
+          "model": 3,
           "modifiers": [
-            "ornate_cascade",
-            "companion_modifier",
+            "gilded_cascade",
+            "gilded_cascade",
             "companion_challenge",
-            "xp_gain"
+            "phoenix"
           ]
         },
         {
           "slot": "2",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade"
+            "living",
+            "companion_modifier",
+            "companion_modifier"
           ]
         },
         {
