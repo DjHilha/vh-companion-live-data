@@ -119,6 +119,26 @@
           "modifiers": [
             "companion_challenge"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "coin_pile",
+            "companion_challenge",
+            "companion_challenge",
+            "phoenix"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "companion_challenge"
+          ]
         }
       ],
       "ancientRelics": []
