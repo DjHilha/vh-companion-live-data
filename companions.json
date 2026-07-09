@@ -402,6 +402,14 @@
             "phoenix",
             "xp_gain"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "companion_modifier"
+          ]
         }
       ],
       "ancientRelics": []
