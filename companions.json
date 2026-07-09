@@ -419,7 +419,9 @@
           "modifiers": [
             "living",
             "companion_modifier",
-            "companion_modifier"
+            "companion_modifier",
+            "companion_challenge",
+            "xp_gain"
           ]
         },
         {
