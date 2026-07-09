@@ -405,10 +405,12 @@
         },
         {
           "slot": "1",
-          "model": 2,
+          "model": 1,
           "modifiers": [
-            "coin_cascade",
-            "companion_modifier"
+            "ornate_cascade",
+            "companion_modifier",
+            "companion_challenge",
+            "xp_gain"
           ]
         },
         {
