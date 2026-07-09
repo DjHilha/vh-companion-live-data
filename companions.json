@@ -371,6 +371,15 @@
           "modifiers": [
             "phoenix"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "companion_modifiers",
+            "phoenix"
+          ]
         }
       ],
       "ancientRelics": []
