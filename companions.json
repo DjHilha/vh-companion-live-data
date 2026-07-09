@@ -136,11 +136,11 @@
       "vaultRuns": 2,
       "hearts": 3,
       "maxHearts": 3,
-      "active": false,
+      "active": true,
       "temporal": "overpower",
       "baseCooldown": 0,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
@@ -409,6 +409,24 @@
           "modifiers": [
             "coin_cascade",
             "companion_modifier"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "ornate_cascade"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "companion_challenge",
+            "extended",
+            "phoenix"
           ]
         }
       ],
