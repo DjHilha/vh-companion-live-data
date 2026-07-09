@@ -244,6 +244,17 @@
             "phoenix",
             "xp_gain"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "companion_modifiers",
+            "companion_modifiers",
+            "companion_challenge",
+            "xp_gain"
+          ]
         }
       ],
       "ancientRelics": []
