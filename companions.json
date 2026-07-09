@@ -383,6 +383,17 @@
             "companion_modifiers",
             "phoenix"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "companion_modifiers",
+            "companion_modifiers",
+            "companion_challenge"
+          ]
         }
       ],
       "ancientRelics": []
