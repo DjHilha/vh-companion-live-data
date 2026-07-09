@@ -426,14 +426,13 @@
         },
         {
           "slot": "3",
-          "model": 2,
+          "model": 3,
           "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
-            "companion_challenge",
-            "companion_challenge",
-            "extended",
-            "xp_gain"
+            "gilded_cascade",
+            "gilded_cascade",
+            "companion_modifier",
+            "companion_modifier",
+            "extended"
           ]
         }
       ],
