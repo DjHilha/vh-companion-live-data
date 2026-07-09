@@ -197,6 +197,17 @@
             "ornate_cascade",
             "companion_challenge"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "gilded",
+            "companion_modifier",
+            "companion_modifier",
+            "xp_gain"
+          ]
         }
       ],
       "ancientRelics": []
