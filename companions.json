@@ -417,10 +417,10 @@
           "slot": "2",
           "model": 2,
           "modifiers": [
-            "living",
-            "companion_modifier",
-            "companion_modifier",
+            "gilded",
+            "gilded",
             "companion_challenge",
+            "phoenix",
             "xp_gain"
           ]
         },
