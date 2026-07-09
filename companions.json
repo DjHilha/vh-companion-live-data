@@ -150,11 +150,10 @@
           "model": 5,
           "modifiers": [
             "plentiful",
-            "companion_modifier",
-            "companion_modifier",
             "companion_challenge",
             "extended",
-            "phoenix"
+            "phoenix",
+            "xp_gain"
           ]
         }
       ]
