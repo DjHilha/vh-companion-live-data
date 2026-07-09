@@ -150,7 +150,11 @@
           "model": 5,
           "modifiers": [
             "plentiful",
-            "plentiful"
+            "companion_modifier",
+            "companion_modifier",
+            "companion_challenge",
+            "extended",
+            "phoenix"
           ]
         }
       ]
