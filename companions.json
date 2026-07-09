@@ -452,7 +452,7 @@
       "hearts": 1,
       "maxHearts": 1,
       "active": true,
-      "temporal": "champion_domain",
+      "temporal": "bronze_nuke",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
