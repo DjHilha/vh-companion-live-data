@@ -124,12 +124,14 @@
         },
         {
           "slot": "2",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "ornate_cascade",
-            "companion_modifier",
-            "companion_modifier",
-            "extended"
+            "gilded",
+            "gilded",
+            "companion_challenge",
+            "extended",
+            "phoenix",
+            "xp_gain"
           ]
         },
         {
