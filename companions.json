@@ -405,6 +405,27 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "5505a485-5685-45bc-a0cf-c6dc33a73eb2",
+      "name": "Magdaluo",
+      "skin": "Magdaluo",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "kill_totem",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
