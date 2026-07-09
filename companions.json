@@ -452,7 +452,7 @@
       "hearts": 1,
       "maxHearts": 1,
       "active": true,
-      "temporal": "kill_totem",
+      "temporal": "champion_domain",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
