@@ -355,7 +355,7 @@
       "temporal": "kill_hunter",
       "baseCooldown": 9,
       "cooldownExpiry": 1783564895635,
-      "status": "SLEEPING",
+      "status": "BATTLE READY",
       "relics": [
         {
           "slot": "0",
