@@ -124,13 +124,12 @@
         },
         {
           "slot": "2",
-          "model": 2,
+          "model": 1,
           "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "companion_challenge",
-            "companion_challenge",
-            "phoenix"
+            "ornate_cascade",
+            "companion_modifier",
+            "companion_modifier",
+            "extended"
           ]
         },
         {
