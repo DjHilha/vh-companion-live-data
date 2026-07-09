@@ -368,9 +368,11 @@
         },
         {
           "slot": "1",
-          "model": 2,
+          "model": 3,
           "modifiers": [
-            "phoenix"
+            "gilded_cascade",
+            "companion_modifiers",
+            "extended"
           ]
         },
         {
