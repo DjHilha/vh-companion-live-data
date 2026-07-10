@@ -540,6 +540,17 @@
             "extended",
             "phoenix"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "companion_challenge",
+            "extended",
+            "xp_gain"
+          ]
         }
       ],
       "ancientRelics": []
