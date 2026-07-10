@@ -376,8 +376,31 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1783697727924,
       "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_pile",
+            "xp_gain",
+            "xp_gain",
+            "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "living_cascade",
+            "xp_gain",
+            "extended",
+            "xp_gain"
+          ]
+        }
+      ]
     },
     {
       "uuid": "a54077ac-d2d6-40a1-8ae0-501abc0a9285",
