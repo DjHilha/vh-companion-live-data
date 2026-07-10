@@ -119,8 +119,12 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "coin_cascade",
-            "xp_gain"
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded_cascade",
+            "gilded_cascade"
           ]
         },
         {
