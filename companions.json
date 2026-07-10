@@ -241,10 +241,12 @@
       "relics": [
         {
           "slot": "0",
-          "model": 3,
+          "model": 2,
           "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
+            "living",
+            "living",
+            "phoenix",
+            "extended",
             "companion_challenge",
             "companion_challenge"
           ]
