@@ -39,7 +39,20 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "extended",
+            "extended",
+            "extended"
+          ]
+        }
+      ]
     },
     {
       "uuid": "4262c8ba-1f8a-497e-ad30-33d6cf2a603c",
