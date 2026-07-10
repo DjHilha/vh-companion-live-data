@@ -551,6 +551,24 @@
             "extended",
             "xp_gain"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "companion_challenge",
+            "phoenix"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "xp_gain"
+          ]
         }
       ],
       "ancientRelics": []
