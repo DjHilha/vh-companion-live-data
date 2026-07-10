@@ -608,7 +608,19 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "living_cascade",
+            "extended",
+            "phoenix",
+            "xp_gain"
+          ]
+        }
+      ]
     }
   ]
 }
