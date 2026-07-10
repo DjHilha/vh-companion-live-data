@@ -253,9 +253,13 @@
         },
         {
           "slot": "1",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "ornate_cascade",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "phoenix",
+            "extended",
             "companion_challenge"
           ]
         },
