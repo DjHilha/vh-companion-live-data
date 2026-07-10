@@ -386,6 +386,16 @@
             "xp_gain",
             "xp_gain"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "phoenix",
+            "xp_gain"
+          ]
         }
       ],
       "ancientRelics": [
