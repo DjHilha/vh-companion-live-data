@@ -106,9 +106,14 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "living",
-            "phoenix",
-            "companion_challenge"
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "xp_gain",
+            "companion_challenge",
+            "companion_challenge",
+            "extended",
+            "phoenix"
           ]
         },
         {
