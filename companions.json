@@ -636,7 +636,7 @@
       "hearts": 1,
       "maxHearts": 1,
       "active": true,
-      "temporal": "glued_mobs",
+      "temporal": "door_hunter",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
