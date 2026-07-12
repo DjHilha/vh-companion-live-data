@@ -682,7 +682,20 @@
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "extended",
+            "phoenix",
+            "xp_gain"
+          ]
+        }
+      ],
       "ancientRelics": []
     }
   ]
