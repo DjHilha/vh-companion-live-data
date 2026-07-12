@@ -687,8 +687,12 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "ornate",
-            "extended"
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "xp_gain",
+            "phoenix",
+            "phoenix"
           ]
         }
       ],
