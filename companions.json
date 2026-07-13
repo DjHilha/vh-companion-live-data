@@ -107,7 +107,7 @@
       "active": true,
       "temporal": "pylon_hunter",
       "baseCooldown": 0,
-      "cooldownExpiry": 1783699061591,
+      "cooldownExpiry": 0,
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
