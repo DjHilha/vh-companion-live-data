@@ -49,11 +49,13 @@
         },
         {
           "slot": "3",
-          "model": 2,
+          "model": 3,
           "modifiers": [
-            "gilded",
-            "extended",
-            "phoenix"
+            "gilded_cascade",
+            "gilded_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "extended"
           ]
         }
       ],
