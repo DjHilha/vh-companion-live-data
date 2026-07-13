@@ -34,12 +34,9 @@
           "slot": "1",
           "model": 2,
           "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "phoenix",
-            "xp_gain",
-            "companion_challenge",
-            "companion_challenge"
+            "coin_pile",
+            "coin_pile",
+            "phoenix"
           ]
         },
         {
@@ -595,7 +592,19 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 5,
+          "modifiers": [
+            "plentiful",
+            "plentiful",
+            "companion_challenge",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        }
+      ]
     },
     {
       "uuid": "5505a485-5685-45bc-a0cf-c6dc33a73eb2",
