@@ -820,7 +820,26 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1783957442307,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "extended",
+            "xp_gain"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "extended"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
