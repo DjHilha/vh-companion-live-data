@@ -35,11 +35,7 @@
           "model": 2,
           "modifiers": [
             "living",
-            "living",
-            "living",
-            "living",
-            "phoenix",
-            "xp_gain"
+            "companion_challenge"
           ]
         },
         {
