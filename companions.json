@@ -772,6 +772,27 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "67b92c5c-d39a-42e2-b45e-44dd0b85ff85",
+      "name": "Angelshine",
+      "skin": "Angelshine",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 500,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
