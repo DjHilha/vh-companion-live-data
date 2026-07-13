@@ -46,6 +46,18 @@
             "gilded_cascade",
             "extended"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "phoenix",
+            "phoenix",
+            "companion_challenge",
+            "phoenix"
+          ]
         }
       ],
       "ancientRelics": [
