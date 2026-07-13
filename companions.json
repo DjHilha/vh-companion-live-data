@@ -665,7 +665,38 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1783782890836,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "living",
+            "living",
+            "xp_gain",
+            "companion_challenge",
+            "companion_challenge"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "extended"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "extended",
+            "xp_gain",
+            "xp_gain",
+            "companion_challenge"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
