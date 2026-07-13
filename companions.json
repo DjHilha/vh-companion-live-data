@@ -500,13 +500,14 @@
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 5,
+          "model": 8,
           "modifiers": [
-            "plentiful",
-            "plentiful",
-            "companion_challenge",
-            "extended",
-            "phoenix"
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade"
           ]
         }
       ]
