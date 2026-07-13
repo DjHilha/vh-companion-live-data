@@ -37,6 +37,15 @@
             "extended",
             "phoenix"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "extended"
+          ]
         }
       ],
       "ancientRelics": [
@@ -490,10 +499,11 @@
           "slot": "3",
           "model": 2,
           "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade"
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade"
           ]
         }
       ],
