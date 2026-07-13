@@ -32,10 +32,14 @@
         },
         {
           "slot": "1",
-          "model": 3,
+          "model": 2,
           "modifiers": [
-            "extended",
-            "phoenix"
+            "coin_cascade",
+            "coin_cascade",
+            "phoenix",
+            "xp_gain",
+            "companion_challenge",
+            "companion_challenge"
           ]
         },
         {
