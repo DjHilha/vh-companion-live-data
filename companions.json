@@ -291,6 +291,14 @@
             "extended",
             "phoenix"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "ornate",
+            "extended"
+          ]
         }
       ],
       "ancientRelics": []
