@@ -348,7 +348,19 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "xp_gain",
+            "companion_challenge",
+            "extended",
+            "phoenix"
+          ]
+        }
+      ]
     },
     {
       "uuid": "d45e8b69-f9db-40db-8796-f81f6fa44d22",
