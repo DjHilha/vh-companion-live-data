@@ -862,7 +862,7 @@
       "hearts": 4,
       "maxHearts": 4,
       "active": true,
-      "temporal": "kill_charm",
+      "temporal": "pylon_hunter",
       "baseCooldown": 0,
       "cooldownExpiry": 1783963317063,
       "status": "BATTLE READY",
