@@ -296,7 +296,13 @@
           "slot": "3",
           "model": 2,
           "modifiers": [
-            "coin_pile",
+            "ornate",
+            "ornate",
+            "ornate",
+            "xp_gain",
+            "extended",
+            "phoenix",
+            "companion_challenge",
             "phoenix"
           ]
         }
