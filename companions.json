@@ -872,11 +872,7 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "extended",
-            "phoenix",
-            "xp_gain"
+            "wooden_cascade"
           ]
         },
         {
