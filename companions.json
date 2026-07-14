@@ -287,10 +287,11 @@
           "slot": "2",
           "model": 2,
           "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "coin_cascade",
-            "extended"
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "living_cascade",
+            "living_cascade"
           ]
         },
         {
