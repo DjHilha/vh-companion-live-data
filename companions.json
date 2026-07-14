@@ -905,6 +905,17 @@
             "extended",
             "phoenix"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "phoenix",
+            "companion_challenge"
+          ]
         }
       ],
       "ancientRelics": []
