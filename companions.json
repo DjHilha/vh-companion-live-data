@@ -959,6 +959,27 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "54229a25-14f9-4398-9b00-5eb6bf25cf79",
+      "name": "Nyxura",
+      "skin": "Nyxura",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "bronze_nuke",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
