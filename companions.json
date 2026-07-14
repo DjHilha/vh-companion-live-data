@@ -313,8 +313,8 @@
           "model": 5,
           "modifiers": [
             "plentiful",
-            "extended",
-            "xp_gain"
+            "plentiful",
+            "phoenix"
           ]
         }
       ]
