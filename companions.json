@@ -105,7 +105,7 @@
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
-      "temporal": "bronze_nuke",
+      "temporal": "overpower",
       "baseCooldown": 0,
       "cooldownExpiry": 1784043704341,
       "status": "BATTLE READY",
@@ -285,11 +285,12 @@
         },
         {
           "slot": "2",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "ornate_cascade",
-            "extended",
-            "phoenix"
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "extended"
           ]
         },
         {
