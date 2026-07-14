@@ -105,7 +105,7 @@
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
-      "temporal": "pylon_hunter",
+      "temporal": "kill_frostnova",
       "baseCooldown": 0,
       "cooldownExpiry": 1784043704341,
       "status": "BATTLE READY",
