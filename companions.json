@@ -787,7 +787,7 @@
       "hearts": 4,
       "maxHearts": 4,
       "active": true,
-      "temporal": "pylon_hunter",
+      "temporal": "overpower",
       "baseCooldown": 0,
       "cooldownExpiry": 1784045502942,
       "status": "BATTLE READY",
