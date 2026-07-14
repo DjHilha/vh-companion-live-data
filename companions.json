@@ -438,11 +438,11 @@
       "vaultRuns": 18,
       "hearts": 5,
       "maxHearts": 5,
-      "active": true,
+      "active": false,
       "temporal": "loot_goblin",
       "baseCooldown": 0,
-      "cooldownExpiry": 1784045502942,
-      "status": "BATTLE READY",
+      "cooldownExpiry": 9223372036854775807,
+      "status": "SLEEPING",
       "relics": [
         {
           "slot": "0",
