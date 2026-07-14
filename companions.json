@@ -886,6 +886,14 @@
             "companion_challenge",
             "extended"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 1,
+          "modifiers": [
+            "ornate_cascade",
+            "companion_challenge"
+          ]
         }
       ],
       "ancientRelics": []
