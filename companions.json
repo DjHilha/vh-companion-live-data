@@ -877,6 +877,27 @@
         }
       ],
       "ancientRelics": []
+    },
+    {
+      "uuid": "983884fb-257c-42d8-84e3-65ac045bcf10",
+      "name": "Sam858i",
+      "skin": "Sam858i",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "rock_solid",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
