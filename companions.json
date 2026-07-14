@@ -883,10 +883,14 @@
           "slot": "1",
           "model": 2,
           "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
+            "coin_cascade",
             "phoenix",
-            "xp_gain",
+            "extended",
+            "companion_challenge",
+            "companion_challenge",
             "companion_challenge",
             "extended"
           ]
