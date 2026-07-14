@@ -479,82 +479,6 @@
       ]
     },
     {
-      "uuid": "a54077ac-d2d6-40a1-8ae0-501abc0a9285",
-      "name": "Hilha",
-      "skin": "Hilha",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 13,
-      "xp": 2634095,
-      "vaultRuns": 10,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "loot_goblin",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1783963317063,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 2,
-          "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 8,
-          "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade"
-          ]
-        }
-      ]
-    },
-    {
       "uuid": "09747437-97e5-4d70-a53c-fa0ba2ae6c66",
       "name": "Mommynikki284",
       "skin": "Mommynikki284",
@@ -944,6 +868,82 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "a54077ac-d2d6-40a1-8ae0-501abc0a9285",
+      "name": "Hilha",
+      "skin": "Hilha",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 13,
+      "xp": 2634095,
+      "vaultRuns": 10,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "loot_goblin",
+      "baseCooldown": 0,
+      "cooldownExpiry": 1783963317063,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade",
+            "wooden_cascade"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 8,
+          "modifiers": [
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade"
+          ]
+        }
+      ]
     }
   ]
 }
