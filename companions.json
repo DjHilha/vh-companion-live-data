@@ -439,7 +439,7 @@
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
-      "temporal": "kill_hunter",
+      "temporal": "champion_domain",
       "baseCooldown": 0,
       "cooldownExpiry": 1784045502942,
       "status": "BATTLE READY",
