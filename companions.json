@@ -105,7 +105,7 @@
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
-      "temporal": "kill_frostnova",
+      "temporal": "bronze_nuke",
       "baseCooldown": 0,
       "cooldownExpiry": 1784043704341,
       "status": "BATTLE READY",
