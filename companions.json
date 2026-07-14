@@ -889,10 +889,17 @@
         },
         {
           "slot": "2",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "ornate_cascade",
-            "companion_challenge"
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "coin_pile",
+            "xp_gain",
+            "companion_challenge",
+            "companion_challenge",
+            "extended",
+            "phoenix"
           ]
         }
       ],
