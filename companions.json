@@ -656,15 +656,13 @@
           "slot": "2",
           "model": 2,
           "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "coin_pile",
-            "coin_pile",
-            "xp_gain",
-            "companion_challenge",
-            "companion_challenge",
-            "extended",
-            "phoenix"
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade"
           ]
         },
         {
