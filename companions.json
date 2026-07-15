@@ -113,84 +113,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "15c12de3-a736-4d3b-97a4-285ee3cd2ead",
-      "name": "Grim_Stoner",
-      "skin": "Grim_Stoner",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 15,
-      "xp": 2828930,
-      "vaultRuns": 23,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "lunar",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1784077001811,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "gilded",
-            "gilded",
-            "gilded",
-            "gilded",
-            "gilded_cascade",
-            "gilded_cascade"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "gilded",
-            "gilded",
-            "xp_gain"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 2,
-          "modifiers": [
-            "gilded",
-            "gilded",
-            "companion_challenge",
-            "extended",
-            "phoenix",
-            "xp_gain"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 3,
-          "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "xp_gain"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 6,
-          "modifiers": [
-            "living_cascade",
-            "phoenix",
-            "extended",
-            "phoenix",
-            "extended",
-            "phoenix",
-            "xp_gain"
-          ]
-        }
-      ]
-    },
-    {
       "uuid": "757f41d3-3d09-4771-b62b-fe2566525d78",
       "name": "LadyLilac84",
       "skin": "LadyLilac84",
@@ -999,6 +921,84 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "15c12de3-a736-4d3b-97a4-285ee3cd2ead",
+      "name": "Grim_Stoner",
+      "skin": "Grim_Stoner",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 15,
+      "xp": 2828930,
+      "vaultRuns": 23,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "lunar",
+      "baseCooldown": 0,
+      "cooldownExpiry": 1784077001811,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded_cascade",
+            "gilded_cascade"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "gilded",
+            "xp_gain"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "gilded",
+            "companion_challenge",
+            "extended",
+            "phoenix",
+            "xp_gain"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 3,
+          "modifiers": [
+            "gilded_cascade",
+            "gilded_cascade",
+            "xp_gain"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "phoenix",
+            "extended",
+            "phoenix",
+            "extended",
+            "phoenix",
+            "xp_gain"
+          ]
+        }
+      ]
     }
   ]
 }
