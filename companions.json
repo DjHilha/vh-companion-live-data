@@ -634,9 +634,10 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "plentiful",
-            "plentiful",
-            "plentiful"
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "companion_challenge"
           ]
         },
         {
