@@ -978,6 +978,27 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "f6d1c1e4-4acb-4434-8d94-a12b07b50202",
+      "name": "queenofharts",
+      "skin": "queenofharts",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 15,
+      "xp": 1694830,
+      "vaultRuns": 19,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "ultimate_regeneration",
+      "baseCooldown": 0,
+      "cooldownExpiry": 1784077001811,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
