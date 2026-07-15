@@ -92,27 +92,6 @@
       "ancientRelics": []
     },
     {
-      "uuid": "f6d1c1e4-4acb-4434-8d94-a12b07b50202",
-      "name": "queenofharts",
-      "skin": "queenofharts",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 15,
-      "xp": 1694830,
-      "vaultRuns": 19,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "ultimate_regeneration",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1784077001811,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
-    },
-    {
       "uuid": "757f41d3-3d09-4771-b62b-fe2566525d78",
       "name": "LadyLilac84",
       "skin": "LadyLilac84",
@@ -238,89 +217,6 @@
           "modifiers": [
             "plentiful",
             "plentiful",
-            "phoenix"
-          ]
-        }
-      ]
-    },
-    {
-      "uuid": "72065973-731c-4313-a9d3-9c062d53686d",
-      "name": "Lucsious1",
-      "skin": "Lucsious1",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 15,
-      "xp": 3590020,
-      "vaultRuns": 20,
-      "hearts": 5,
-      "maxHearts": 5,
-      "active": true,
-      "temporal": "overpower",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1784061864891,
-      "status": "BATTLE READY",
-      "relics": [
-        {
-          "slot": "0",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "companion_modifiers",
-            "companion_challenge",
-            "companion_challenge",
-            "extended",
-            "phoenix"
-          ]
-        },
-        {
-          "slot": "1",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "companion_modifiers",
-            "companion_modifiers",
-            "extended",
-            "phoenix",
-            "xp_gain"
-          ]
-        },
-        {
-          "slot": "2",
-          "model": 4,
-          "modifiers": [
-            "wooden_cascade",
-            "companion_modifiers",
-            "companion_modifiers",
-            "companion_challenge",
-            "xp_gain"
-          ]
-        },
-        {
-          "slot": "3",
-          "model": 2,
-          "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "phoenix",
-            "phoenix",
-            "companion_challenge",
-            "companion_challenge",
-            "extended"
-          ]
-        }
-      ],
-      "ancientRelics": [
-        {
-          "slot": "0",
-          "model": 6,
-          "modifiers": [
-            "living_cascade",
-            "xp_gain",
-            "companion_challenge",
-            "extended",
             "phoenix"
           ]
         }
@@ -996,6 +892,89 @@
             "extended",
             "phoenix",
             "xp_gain"
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "72065973-731c-4313-a9d3-9c062d53686d",
+      "name": "Lucsious1",
+      "skin": "Lucsious1",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 15,
+      "xp": 3590020,
+      "vaultRuns": 20,
+      "hearts": 5,
+      "maxHearts": 5,
+      "active": true,
+      "temporal": "overpower",
+      "baseCooldown": 0,
+      "cooldownExpiry": 1784061864891,
+      "status": "BATTLE READY",
+      "relics": [
+        {
+          "slot": "0",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "companion_modifiers",
+            "companion_challenge",
+            "companion_challenge",
+            "extended",
+            "phoenix"
+          ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "companion_modifiers",
+            "companion_modifiers",
+            "extended",
+            "phoenix",
+            "xp_gain"
+          ]
+        },
+        {
+          "slot": "2",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "companion_modifiers",
+            "companion_modifiers",
+            "companion_challenge",
+            "xp_gain"
+          ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "coin_cascade",
+            "coin_cascade",
+            "phoenix",
+            "phoenix",
+            "companion_challenge",
+            "companion_challenge",
+            "extended"
+          ]
+        }
+      ],
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "xp_gain",
+            "companion_challenge",
+            "extended",
+            "phoenix"
           ]
         }
       ]
