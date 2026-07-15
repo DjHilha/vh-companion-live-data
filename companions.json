@@ -632,13 +632,11 @@
       "relics": [
         {
           "slot": "0",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade",
-            "companion_challenge",
-            "companion_challenge",
-            "xp_gain"
+            "plentiful",
+            "plentiful",
+            "plentiful"
           ]
         },
         {
