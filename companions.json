@@ -316,8 +316,7 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "living",
-            "living",
+            "coin_cascade",
             "extended"
           ]
         },
@@ -771,11 +770,11 @@
           "slot": "3",
           "model": 2,
           "modifiers": [
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade",
-            "ornate_cascade"
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful"
           ]
         }
       ],
