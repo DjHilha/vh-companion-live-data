@@ -48,11 +48,9 @@
           "slot": "3",
           "model": 2,
           "modifiers": [
-            "coin_cascade",
-            "coin_cascade",
-            "companion_challenge",
-            "companion_challenge",
-            "xp_gain"
+            "coin_pile",
+            "coin_pile",
+            "coin_pile"
           ]
         }
       ],
