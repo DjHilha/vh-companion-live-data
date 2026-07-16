@@ -876,15 +876,17 @@
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 6,
+          "model": 8,
           "modifiers": [
-            "living_cascade",
-            "phoenix",
-            "extended",
-            "phoenix",
-            "extended",
-            "phoenix",
-            "xp_gain"
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded",
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
+            "gilded_cascade"
           ]
         }
       ]
