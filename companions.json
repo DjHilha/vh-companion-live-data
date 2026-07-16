@@ -325,10 +325,9 @@
           "slot": "1",
           "model": 2,
           "modifiers": [
-            "gilded",
-            "gilded",
-            "companion_modifier",
-            "extended"
+            "coin_pile",
+            "phoenix",
+            "xp_gain"
           ]
         },
         {
