@@ -316,9 +316,8 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "living",
-            "living",
-            "phoenix"
+            "coin_pile",
+            "xp_gain"
           ]
         },
         {
