@@ -424,10 +424,9 @@
         },
         {
           "slot": "3",
-          "model": 3,
+          "model": 4,
           "modifiers": [
-            "gilded_cascade",
-            "xp_gain"
+            "wooden_cascade"
           ]
         }
       ],
