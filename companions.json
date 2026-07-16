@@ -47,11 +47,12 @@
         },
         {
           "slot": "3",
-          "model": 2,
+          "model": 4,
           "modifiers": [
-            "gilded",
-            "phoenix",
-            "xp_gain"
+            "wooden_cascade",
+            "wooden_cascade",
+            "companion_challenge",
+            "companion_challenge"
           ]
         }
       ],
@@ -75,7 +76,7 @@
       "series": "LEGEND",
       "type": "minion",
       "level": 15,
-      "xp": 3229123,
+      "xp": 4309122,
       "vaultRuns": 21,
       "hearts": 5,
       "maxHearts": 5,
