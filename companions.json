@@ -22,13 +22,10 @@
       "relics": [
         {
           "slot": "0",
-          "model": 2,
+          "model": 4,
           "modifiers": [
-            "gilded",
-            "gilded",
-            "gilded",
-            "gilded",
-            "extended"
+            "wooden_cascade",
+            "phoenix"
           ]
         },
         {
@@ -50,13 +47,11 @@
         },
         {
           "slot": "3",
-          "model": 3,
+          "model": 2,
           "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "companion_challenge",
-            "companion_challenge",
-            "extended"
+            "gilded",
+            "phoenix",
+            "xp_gain"
           ]
         }
       ],
