@@ -40,11 +40,11 @@
         },
         {
           "slot": "2",
-          "model": 3,
+          "model": 2,
           "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "extended"
+            "living_cascade",
+            "living_cascade",
+            "living_cascade"
           ]
         },
         {
