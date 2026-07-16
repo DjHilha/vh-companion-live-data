@@ -314,10 +314,12 @@
       "relics": [
         {
           "slot": "0",
-          "model": 2,
+          "model": 1,
           "modifiers": [
-            "coin_cascade",
-            "extended"
+            "ornate_cascade",
+            "ornate_cascade",
+            "companion_challenge",
+            "xp_gain"
           ]
         },
         {
