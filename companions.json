@@ -426,7 +426,8 @@
           "slot": "3",
           "model": 4,
           "modifiers": [
-            "wooden_cascade"
+            "wooden_cascade",
+            "xp_gain"
           ]
         }
       ],
