@@ -332,9 +332,12 @@
         },
         {
           "slot": "2",
-          "model": 1,
+          "model": 2,
           "modifiers": [
-            "ornate_cascade"
+            "coin_cascade",
+            "coin_cascade",
+            "companion_challenge",
+            "companion_challenge"
           ]
         },
         {
