@@ -24,7 +24,10 @@
           "slot": "0",
           "model": 4,
           "modifiers": [
-            "wooden_cascade"
+            "wooden_cascade",
+            "wooden_cascade",
+            "companion_challenge",
+            "companion_challenge"
           ]
         },
         {
@@ -48,9 +51,9 @@
           "slot": "3",
           "model": 2,
           "modifiers": [
-            "coin_pile",
-            "coin_pile",
-            "coin_pile"
+            "living",
+            "living",
+            "xp_gain"
           ]
         }
       ],
