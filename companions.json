@@ -314,11 +314,12 @@
       "relics": [
         {
           "slot": "0",
-          "model": 2,
+          "model": 3,
           "modifiers": [
-            "wooden_cascade",
+            "gilded_cascade",
+            "gilded_cascade",
             "companion_challenge",
-            "extended"
+            "companion_challenge"
           ]
         },
         {
