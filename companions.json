@@ -316,9 +316,9 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "coin_cascade",
-            "extended",
-            "xp_gain"
+            "living",
+            "living",
+            "phoenix"
           ]
         },
         {
