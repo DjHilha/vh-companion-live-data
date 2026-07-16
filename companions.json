@@ -164,12 +164,11 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "living",
-            "living",
-            "phoenix",
-            "extended",
-            "companion_challenge",
-            "companion_challenge"
+            "living_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade",
+            "wooden_cascade"
           ]
         },
         {
