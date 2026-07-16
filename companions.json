@@ -151,13 +151,13 @@
       "type": "minion",
       "level": 19,
       "xp": 7558883,
-      "vaultRuns": 27,
+      "vaultRuns": 28,
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
       "temporal": "kill_hunter",
       "baseCooldown": 0,
-      "cooldownExpiry": 1784149328749,
+      "cooldownExpiry": 1784162804509,
       "status": "BATTLE READY",
       "relics": [
         {
@@ -307,13 +307,13 @@
       "type": "minion",
       "level": 17,
       "xp": 6459798,
-      "vaultRuns": 19,
+      "vaultRuns": 20,
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
       "temporal": "lunar",
       "baseCooldown": 0,
-      "cooldownExpiry": 1784137441223,
+      "cooldownExpiry": 1784162804509,
       "status": "BATTLE READY",
       "relics": [
         {
@@ -621,13 +621,13 @@
       "type": "minion",
       "level": 17,
       "xp": 6791707,
-      "vaultRuns": 11,
+      "vaultRuns": 12,
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
       "temporal": "overpower",
       "baseCooldown": 0,
-      "cooldownExpiry": 1784149328749,
+      "cooldownExpiry": 1784162804509,
       "status": "BATTLE READY",
       "relics": [
         {
