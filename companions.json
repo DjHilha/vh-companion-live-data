@@ -316,8 +316,9 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "coin_pile",
-            "xp_gain"
+            "wooden_cascade",
+            "companion_challenge",
+            "extended"
           ]
         },
         {
