@@ -22,12 +22,11 @@
       "relics": [
         {
           "slot": "0",
-          "model": 2,
+          "model": 4,
           "modifiers": [
-            "ornate",
-            "ornate",
-            "phoenix",
-            "xp_gain"
+            "wooden_cascade",
+            "companion_challenge",
+            "extended"
           ]
         },
         {
