@@ -341,23 +341,21 @@
         },
         {
           "slot": "3",
-          "model": 3,
+          "model": 2,
           "modifiers": [
-            "gilded_cascade",
-            "gilded_cascade",
-            "companion_modifier",
-            "companion_modifier",
-            "extended"
+            "coin_pile",
+            "coin_pile",
+            "extended",
+            "phoenix"
           ]
         }
       ],
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 6,
+          "model": 5,
           "modifiers": [
-            "living_cascade",
-            "companion_challenge",
+            "plentiful",
             "extended"
           ]
         }
