@@ -354,10 +354,11 @@
       "ancientRelics": [
         {
           "slot": "0",
-          "model": 5,
+          "model": 6,
           "modifiers": [
-            "plentiful",
-            "plentiful"
+            "living_cascade",
+            "companion_challenge",
+            "extended"
           ]
         }
       ]
