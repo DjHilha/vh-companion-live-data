@@ -316,7 +316,9 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "gilded"
+            "coin_cascade",
+            "extended",
+            "companion_challenge"
           ]
         },
         {
