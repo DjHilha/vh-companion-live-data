@@ -356,7 +356,10 @@
           "model": 5,
           "modifiers": [
             "plentiful",
-            "extended"
+            "plentiful",
+            "plentiful",
+            "extended",
+            "xp_gain"
           ]
         }
       ]
