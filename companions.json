@@ -746,10 +746,13 @@
           "slot": "1",
           "model": 2,
           "modifiers": [
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade",
-            "wooden_cascade"
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful",
+            "plentiful"
           ]
         },
         {
