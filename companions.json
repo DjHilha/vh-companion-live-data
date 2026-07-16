@@ -24,7 +24,9 @@
           "slot": "0",
           "model": 2,
           "modifiers": [
-            "wooden_cascade",
+            "ornate",
+            "ornate",
+            "phoenix",
             "xp_gain"
           ]
         },
