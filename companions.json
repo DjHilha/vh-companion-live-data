@@ -386,7 +386,7 @@
       "hearts": 5,
       "maxHearts": 5,
       "active": true,
-      "temporal": "bronze_nuke",
+      "temporal": "overpower",
       "baseCooldown": 0,
       "cooldownExpiry": 1784214348263,
       "status": "BATTLE READY",
