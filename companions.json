@@ -1005,6 +1005,16 @@
             "phoenix",
             "xp_gain"
           ]
+        },
+        {
+          "slot": "1",
+          "model": 2,
+          "modifiers": [
+            "gilded",
+            "companion_challenge",
+            "extended",
+            "phoenix"
+          ]
         }
       ],
       "ancientRelics": []
