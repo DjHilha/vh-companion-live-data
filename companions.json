@@ -599,6 +599,13 @@
             "coin_cascade",
             "extended"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 2,
+          "modifiers": [
+            "gilded"
+          ]
         }
       ],
       "ancientRelics": []
