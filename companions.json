@@ -1056,7 +1056,9 @@
           "slot": "3",
           "model": 2,
           "modifiers": [
-            "living"
+            "ornate_cascade",
+            "ornate_cascade",
+            "ornate_cascade"
           ]
         }
       ],
