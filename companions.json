@@ -76,7 +76,7 @@
       "series": "LEGEND",
       "type": "minion",
       "level": 16,
-      "xp": 1635791,
+      "xp": 1835791,
       "vaultRuns": 21,
       "hearts": 5,
       "maxHearts": 5,
@@ -900,7 +900,7 @@
       "series": "LEGEND",
       "type": "minion",
       "level": 28,
-      "xp": 2795692,
+      "xp": 3822358,
       "vaultRuns": 25,
       "hearts": 5,
       "maxHearts": 5,
@@ -1018,11 +1018,10 @@
         },
         {
           "slot": "2",
-          "model": 4,
+          "model": 2,
           "modifiers": [
-            "wooden_cascade",
-            "companion_challenge",
-            "extended"
+            "ornate_cascade",
+            "ornate_cascade"
           ]
         },
         {
