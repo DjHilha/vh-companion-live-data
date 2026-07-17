@@ -1024,6 +1024,13 @@
             "companion_challenge",
             "extended"
           ]
+        },
+        {
+          "slot": "3",
+          "model": 2,
+          "modifiers": [
+            "living"
+          ]
         }
       ],
       "ancientRelics": []
