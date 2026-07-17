@@ -608,7 +608,18 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "living_cascade",
+            "living_cascade",
+            "extended"
+          ]
+        }
+      ]
     },
     {
       "uuid": "4a221e32-5fb1-4d97-8c4f-bdf0c60de3ab",
