@@ -1015,6 +1015,15 @@
             "extended",
             "phoenix"
           ]
+        },
+        {
+          "slot": "2",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "companion_challenge",
+            "extended"
+          ]
         }
       ],
       "ancientRelics": []
