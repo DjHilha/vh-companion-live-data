@@ -965,13 +965,9 @@
         },
         {
           "slot": "2",
-          "model": 4,
+          "model": 2,
           "modifiers": [
-            "wooden_cascade",
-            "companion_modifiers",
-            "companion_modifiers",
-            "companion_challenge",
-            "xp_gain"
+            "coin_cascade"
           ]
         },
         {
