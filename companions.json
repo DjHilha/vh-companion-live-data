@@ -1033,7 +1033,16 @@
           ]
         }
       ],
-      "ancientRelics": []
+      "ancientRelics": [
+        {
+          "slot": "0",
+          "model": 6,
+          "modifiers": [
+            "living_cascade",
+            "xp_gain"
+          ]
+        }
+      ]
     },
     {
       "uuid": "89c0b7f0-0c04-4baa-aba3-f531273a8f90",
