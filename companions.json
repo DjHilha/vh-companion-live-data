@@ -1031,7 +1031,7 @@
       "ancientRelics": []
     },
     {
-      "uuid": "7877c28a-d8e1-4e01-84f4-38a3324a9249",
+      "uuid": "af49eb7e-e504-44e0-a9db-d4b77f145520",
       "name": "smilerwilkins",
       "skin": "smilerwilkins",
       "owner": "Hilha",
@@ -1039,12 +1039,12 @@
       "series": "LEGEND",
       "type": "minion",
       "level": 1,
-      "xp": 1000,
+      "xp": 0,
       "vaultRuns": 0,
       "hearts": 1,
       "maxHearts": 1,
       "active": true,
-      "temporal": "bronze_nuke",
+      "temporal": "overpower",
       "baseCooldown": 0,
       "cooldownExpiry": 0,
       "status": "BATTLE READY",
