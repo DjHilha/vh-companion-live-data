@@ -1043,11 +1043,11 @@
       "vaultRuns": 0,
       "hearts": 1,
       "maxHearts": 1,
-      "active": false,
+      "active": true,
       "temporal": "overpower",
       "baseCooldown": 0,
-      "cooldownExpiry": 9223372036854775807,
-      "status": "SLEEPING",
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
     }
