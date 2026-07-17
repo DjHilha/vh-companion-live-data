@@ -1029,27 +1029,6 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
-    },
-    {
-      "uuid": "af49eb7e-e504-44e0-a9db-d4b77f145520",
-      "name": "smilerwilkins",
-      "skin": "smilerwilkins",
-      "owner": "Hilha",
-      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
-      "series": "LEGEND",
-      "type": "minion",
-      "level": 5,
-      "xp": 247515,
-      "vaultRuns": 1,
-      "hearts": 3,
-      "maxHearts": 3,
-      "active": true,
-      "temporal": "overpower",
-      "baseCooldown": 0,
-      "cooldownExpiry": 1784314412697,
-      "status": "BATTLE READY",
-      "relics": [],
-      "ancientRelics": []
     }
   ]
 }
