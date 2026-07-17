@@ -1029,6 +1029,27 @@
       "status": "BATTLE READY",
       "relics": [],
       "ancientRelics": []
+    },
+    {
+      "uuid": "44c15283-d6a8-418a-9983-f6010317520f",
+      "name": "Charlie_wilkins",
+      "skin": "Charlie_wilkins",
+      "owner": "Hilha",
+      "ownerUuid": "4c48aee5-182a-4645-a0dd-ebb021df99ef",
+      "series": "LEGEND",
+      "type": "minion",
+      "level": 1,
+      "xp": 0,
+      "vaultRuns": 0,
+      "hearts": 1,
+      "maxHearts": 1,
+      "active": true,
+      "temporal": "overpower",
+      "baseCooldown": 0,
+      "cooldownExpiry": 0,
+      "status": "BATTLE READY",
+      "relics": [],
+      "ancientRelics": []
     }
   ]
 }
