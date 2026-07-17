@@ -992,7 +992,21 @@
       "baseCooldown": 0,
       "cooldownExpiry": 1784223843411,
       "status": "BATTLE READY",
-      "relics": [],
+      "relics": [
+        {
+          "slot": "0",
+          "model": 4,
+          "modifiers": [
+            "wooden_cascade",
+            "wooden_cascade",
+            "companion_challenge",
+            "companion_challenge",
+            "extended",
+            "phoenix",
+            "xp_gain"
+          ]
+        }
+      ],
       "ancientRelics": []
     },
     {
